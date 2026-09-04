@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Oncology CPT Codes: A 2026 Billing and Coding Guide",
+    "date": "May 18, 2026",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+    "category": "Oncology",
+    "readTime": "6 min read",
+    "summary": "Master oncology coding rules, modifier usage, and chemotherapy administration billing to eliminate compliance errors.",
+    "content": {
+      "overview": "Oncology medical coding is notoriously complex due to multi-agent drug regimens and strict payer guidelines.",
+      "keyTakeaways": [
+        "Proper application of JW and JZ modifiers for single-dose vial waste.",
+        "Differentiating hydration administration from therapeutic infusions.",
+        "Prior authorization documentation workflows for specialized biologics."
+      ],
+      "body": "Navigating medical billing in oncology requires precision. Ensuring accurate CPT code selection directly impacts claim acceptance rates and minimizes revenue lag."
+    }
+  },
+  {
+    "id": "2",
+    "title": "A Complete Guide to Laboratory Revenue Cycle Management",
+    "date": "May 12, 2026",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&h=450&fit=crop",
+    "category": "Laboratory",
+    "readTime": "8 min read",
+    "summary": "Streamline lab SoftbeckMedicare workflows, reduce diagnostic claim denials, and accelerate reimbursement timelines.",
+    "content": {
+      "overview": "Clinical laboratories process high volumes of low-dollar claims, making automated processing vital to operational profitability.",
+      "keyTakeaways": [
+        "Automating CLIA certification validation at claim submission.",
+        "Managing requisitions with missing physician NPI information.",
+        "Strategies for handling toxicological screening reimbursements."
+      ],
+      "body": "A robust revenue cycle strategy helps laboratories handle complex panel coding while maintaining fast turnarounds on insurance reimbursement."
+    }
+  },
+  {
+    "id": "3",
+    "title": "What is Ambient Listening: AI Solution to Physician Burnout",
+    "date": "May 6, 2026",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+    "category": "HealthTech",
+    "readTime": "5 min read",
+    "summary": "How AI-driven ambient clinical scribing saves physicians 2+ hours daily while standardizing EHR clinical notes.",
+    "content": {
+      "overview": "Ambient intelligence transcribes doctor-patient conversations into structured SOAP notes automatically in real-time.",
+      "keyTakeaways": [
+        "Reducing clinical documentation time by up to 50%.",
+        "Ensuring HIPAA-compliant ambient AI integrations.",
+        "Improving clinical coding accuracy straight from conversation logs."
+      ],
+      "body": "By leveraging ambient scribing technology, medical practices combat physician burnout and ensure complete clinical documentation."
+    }
+  },
+  {
+    "id": "4",
+    "title": "5 Common Orthopedic Billing Denials and How to Avoid Them",
+    "date": "April 24, 2026",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=450&fit=crop",
+    "category": "Orthopedics",
+    "readTime": "7 min read",
+    "summary": "Identify top root causes for surgical and diagnostic orthopedic denials and how to prevent them upfront.",
+    "content": {
+      "overview": "Orthopedic surgery and post-op care involve intricate surgical bundle codes often prone to payer rejections.",
+      "keyTakeaways": [
+        "Handling global surgical package modifier exclusions (-24, -57, -58).",
+        "Documenting medical necessity for arthroscopic procedure combinations.",
+        "Resolving pre-authorization mismatches before surgery date."
+      ],
+      "body": "Preventing claims rejection in orthopedic practices hinges on clear surgical dictation and correct modifier selection."
+    }
+  },
+  {
+    "id": "5",
+    "title": "Maximizing Cardiology Reimbursements in 2026",
+    "date": "April 15, 2026",
+    "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&h=450&fit=crop",
+    "category": "Cardiology",
+    "readTime": "6 min read",
+    "summary": "Essential coding guidelines for echocardiograms, cardiac catheterizations, and remote patient monitoring.",
+    "content": {
+      "overview": "Cardiology practices face evolving billing rules surrounding diagnostic testing and remote physiological monitoring.",
+      "keyTakeaways": [
+        "CPT compliance for 30-day cardiac event monitoring.",
+        "Proper unbundling rules for multi-vessel angioplasty.",
+        "Optimizing telehealth reimbursement for cardiac consultations."
+      ],
+      "body": "Adopting standardized documentation templates guarantees full reimbursement for complex cardiovascular interventions."
+    }
+  },
+  {
+    "id": "6",
+    "title": "Urgent Care Billing Rules: Compliance and Speed",
+    "date": "April 02, 2026",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
+    "category": "Urgent Care",
+    "readTime": "4 min read",
+    "summary": "Optimizing front-desk eligibility verification and S-code billing for high-volume urgent care centers.",
+    "content": {
+      "overview": "Fast-paced urgent care clinics require streamlined insurance verification to keep collection ratios above 95%.",
+      "keyTakeaways": [
+        "S9088 vs standard evaluation and management (E/M) coding.",
+        "Immediate copay and deductible collection strategies at intake.",
+        "Managing out-of-network patient billing seamlessly."
+      ],
+      "body": "Implementing automated real-time eligibility checks eliminates claim submission delays for walk-in urgent care patients."
+    }
+  }
+]

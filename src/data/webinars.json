@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Boost Your Healthcare Business with Expert AR Recovery Techniques and Services",
+    "category": "AR Recovery",
+    "date": "Aug 15, 2026",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+    "summary": "You can increase your revenue and ensure timely payments by implementing some simple best practices for medical billing accounts receivable management.",
+    "videoUrl": "https://example.com/videos/ar-recovery.mp4",
+    "slidesUrl": "/downloads/ar-recovery-slides.pdf",
+    "speaker": {
+      "name": "Dr. Sarah Jenkins",
+      "role": "Revenue Cycle Specialist"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Capitalizing on Healthcare Connections via SoftbeckMedicare 's Partner Program",
+    "category": "Practice Management",
+    "date": "Jul 22, 2026",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&h=450&fit=crop",
+    "summary": "Designed for professionals like you, the SoftbeckMedicare 's Partner Program provides an opportunity to maximize your referral earning potential.",
+    "videoUrl": "https://example.com/videos/partner-program.mp4",
+    "slidesUrl": "/downloads/partner-program-slides.pdf",
+    "speaker": {
+      "name": "Michael Chang",
+      "role": "Strategic Partnerships Director"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Mastering Medical Decision Making (MDM) Training | SoftbeckMedicare ",
+    "category": "CPT Codes",
+    "date": "Jun 10, 2026",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&h=450&fit=crop",
+    "summary": "Understanding medical decision making (MDM) is essential for ensuring accurate billing and maximizing reimbursement according to current guidelines.",
+    "videoUrl": "https://example.com/videos/mdm-training.mp4",
+    "slidesUrl": "/downloads/mdm-training-slides.pdf",
+    "speaker": {
+      "name": "Emily Carter",
+      "role": "Certified Professional Coder (CPC)"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Navigating ICD-10 Code Changes & Compliance Rules",
+    "category": "Medical Billing",
+    "date": "May 28, 2026",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
+    "summary": "Stay ahead of annual ICD-10 code updates to eliminate claim denials, streamline audits, and ensure compliance across all clinical documentation.",
+    "videoUrl": "https://example.com/videos/icd10-compliance.mp4",
+    "slidesUrl": "/downloads/icd10-compliance-slides.pdf",
+    "speaker": {
+      "name": "Robert Vance",
+      "role": "Compliance Officer"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Streamlining Practice Operations with Next-Gen EHR & EMR Systems",
+    "category": "EHR/EMR",
+    "date": "Apr 14, 2026",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=450&fit=crop",
+    "summary": "Discover how integrating advanced EHR and EMR solutions reduces provider burnout, speeds up patient charting, and eliminates billing bottlenecks.",
+    "videoUrl": "https://example.com/videos/emr-integration.mp4",
+    "slidesUrl": "/downloads/emr-integration-slides.pdf",
+    "speaker": {
+      "name": "Jessica Taylor",
+      "role": "Health IT Specialist"
+    }
+  }
+]

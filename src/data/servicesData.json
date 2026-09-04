@@ -1,0 +1,3646 @@
+[
+  {
+    "slug": "revenue-cycle-management",
+    "metadata": {
+      "pageTitle": "Revenue Cycle Management Services | SoftbeckMedicare ",
+      "metaDescription": "Optimize your entire revenue cycle with SoftbeckMedicare 's comprehensive SoftbeckMedicare solutions. From patient access to final payment, we maximize your revenue."
+    },
+    "heroSection": {
+      "title": "Revenue Cycle Management",
+      "description": "Our end-to-end Revenue Cycle Management (SoftbeckMedicare) solutions streamline the entire financial process, from patient registration and eligibility verification to claim submission, denial management, and final payment. We use AI-powered analytics to identify bottlenecks and improve performance, ensuring you get paid faster and more accurately, while reducing administrative burden and improving cash flow.",
+      "ctaButton": {
+        "text": "Talk to a SoftbeckMedicare Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "97%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "1200+ Providers"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Revenue Increase",
+          "value": "30%"
+        },
+        {
+          "icon": "pill",
+          "label": "Serving Specialties",
+          "value": "60+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Comprehensive SoftbeckMedicare Solutions & Analytics",
+      "description": "Our SoftbeckMedicare platform leverages advanced AI and machine learning to predict denials, analyze payer behavior, and automate routine tasks. We provide complete visibility into your revenue cycle with real-time dashboards and detailed reporting, allowing you to identify areas for improvement and make data-driven decisions. Our team ensures that every claim is coded accurately and submitted with the proper documentation for faster, more reliable reimbursement.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Claim Status Updated",
+          "subtitle": "Payment in progress",
+          "icon": "receipt-dollar"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "AI Powered",
+        "icon": "grid-dots"
+      },
+      "title": "Predictive Analytics for High-Value Accounts",
+      "description": "Our advanced analytics identify high-value patient accounts and flag potential risks before they impact revenue. We use predictive modeling to assess the likelihood of denial based on historical data, allowing you to proactively address issues and secure payment. This approach focuses your resources on the most critical areas, improving both efficiency and financial outcomes.",
+      "image": {
+        "alt": "Team analyzing data on a large screen",
+        "src": "https://images.pexels.com/photos/7578802/pexels-photo-7578802.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Automated Eligibility & Patient Enrollment",
+      "description": "We start the SoftbeckMedicare process with accurate and instant patient eligibility verification. Our automated tools check coverage, benefits, and pre-authorization requirements in real-time, ensuring you have the correct information before providing services. This reduces claim rejections, accelerates the billing process, and significantly improves patient satisfaction by providing clear cost estimates upfront.",
+      "features": [
+        {
+          "title": "Real-time Verification",
+          "description": "Instant eligibility checks",
+          "icon": "check"
+        },
+        {
+          "title": "Pre-authorization Management",
+          "description": "Automated tracking and follow-up",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Medical staff using a tablet for patient check-in",
+        "src": "https://images.pexels.com/photos/15962796/pexels-photo-15962796.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Eligibility Verified",
+          "subtitle": "Active Coverage"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "AI-Driven Denial Prevention & Revenue Protection",
+      "description": "Our AI-driven pre-billing engine performs a thorough review of each claim against payer rules, coding guidelines, and clinical documentation. It identifies potential errors, missing information, and compliance issues before submission. This proactive approach drastically reduces denial rates, ensures clean claims, and protects your revenue cycle from costly payment delays.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Patient Registration",
+            "icon": "user-plus",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Eligibility Verification",
+            "icon": "user-search",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Pre-Authorization",
+            "icon": "file-check",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Coding & Charge Entry",
+            "icon": "hashtag",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Claim Scrubbing",
+            "icon": "scanner",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Payer Adjudication",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "building",
+          "title": "Large Medical Groups"
+        },
+        {
+          "icon": "user-md",
+          "title": "Solo Practitioners & Small Clinics"
+        },
+        {
+          "icon": "flask",
+          "title": "Laboratories & Diagnostic Centers"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        },
+        {
+          "icon": "building",
+          "title": "FQHCs & Community Health Centers"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "SoftbeckMedicare  offers a full suite of denial management services to recover lost revenue. Our team of experts handles every aspect of the denials process, from identification to resolution.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We ensure accurate data extraction from your EHR to support clean claim submission and provide detailed documentation for appeals."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We integrate with care coordination tools to track activities and ensure the supporting documentation for patient services is present and accurate."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "Our team manages data from RPM platforms to meet specific billing requirements, ensuring you are compliant and maximizing reimbursement."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We leverage advanced billing and coding software to automate code generation, validate CPT/ICD-10 codes, and ensure timely claim submission."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Revenue Cycle Management?",
+      "image": {
+        "alt": "Medical billing team working together",
+        "src": "https://images.pexels.com/photos/7800551/pexels-photo-7800551.jpeg"
+      },
+      "points": [
+        "Proven track record of improving cash flow and reducing days in A/R",
+        "AI-powered analytics for proactive denial prevention",
+        "Expert team of AAPC-certified coders and billing specialists",
+        "Seamless integration with leading EHR and practice management systems",
+        "Transparent reporting and full visibility into your revenue cycle",
+        "HIPAA-compliant and audit-ready processes"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is Revenue Cycle Management (SoftbeckMedicare)?",
+          "answer": "SoftbeckMedicare is the financial process used by healthcare facilities to manage the entire lifecycle of a patient account, from registration and appointment scheduling to the final payment of a balance."
+        },
+        {
+          "question": "How does SoftbeckMedicare  improve revenue cycle performance?",
+          "answer": "We use a combination of expert staff, AI-powered technology, and proven process improvements to reduce denials, accelerate payments, and optimize every stage of the revenue cycle."
+        },
+        {
+          "question": "Can SoftbeckMedicare  integrate with my existing EHR?",
+          "answer": "Yes, our solutions are designed to seamlessly integrate with most major EHR and practice management systems to ensure a smooth workflow."
+        },
+        {
+          "question": "What kind of reporting do you provide?",
+          "answer": "We provide comprehensive, real-time dashboards and detailed reports that give you full visibility into key metrics like A/R, denial rates, and collections."
+        },
+        {
+          "question": "Do you handle both professional and institutional billing?",
+          "answer": "Yes, our services cover both professional (physician) and institutional (facility) billing."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "physician-billing",
+    "metadata": {
+      "pageTitle": "Physician Billing Services | SoftbeckMedicare ",
+      "metaDescription": "Maximize your practice's revenue with SoftbeckMedicare 's specialized physician billing services. Expert coding, claim submission, and denial management for all specialties."
+    },
+    "heroSection": {
+      "title": "Physician Billing Services",
+      "description": "Our physician billing services are designed to optimize your practice's financial health. We offer specialized, specialty-specific coding, claim submission, and denial management to ensure accurate and timely reimbursement. With deep expertise in E/M coding, surgical billing, and modifier usage, we help you capture every dollar you've earned while ensuring full compliance.",
+      "ctaButton": {
+        "text": "Talk to a Billing Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "98%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "800+ Physicians"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Revenue Increase",
+          "value": "28%"
+        },
+        {
+          "icon": "pill",
+          "label": "Serving Specialties",
+          "value": "40+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Specialized Billing Solutions & Documentation Support",
+      "description": "Our physician billing solutions are tailored to the unique needs of your practice. We provide expert documentation support to ensure that your medical records clearly support the level of service billed. From detailed history and exam documentation to medical decision-making, we help you capture the complexity of your care, ensuring full and compliant reimbursement.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Claim Approved",
+          "subtitle": "Payment processed",
+          "icon": "stamp"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Specialty Focused",
+        "icon": "grid-dots"
+      },
+      "title": "Specialty-Specific Coding for Complex Cases",
+      "description": "Our certified coders are trained in a wide range of specialties, including cardiology, orthopedics, oncology, and more. We understand the nuances of each specialty's coding guidelines, ensuring accurate code selection for even the most complex cases. This reduces the risk of audits and ensures your practice receives appropriate reimbursement for the advanced care you provide.",
+      "image": {
+        "alt": "Doctor reviewing a medical chart with a specialist",
+        "src": "https://images.unsplash.com/photo-1666214280391-8ff5bd3c0bf0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Streamlined Patient Enrollment & Eligibility",
+      "description": "We manage the entire patient enrollment and eligibility verification process. Our team ensures that all patient demographics, insurance information, and referral data are accurate and up-to-date before services are rendered. This minimizes claim rejections, speeds up the billing cycle, and reduces financial risk for your practice.",
+      "features": [
+        {
+          "title": "Real-time Insurance Checks",
+          "description": "Instant coverage verification",
+          "icon": "check"
+        },
+        {
+          "title": "Referral Tracking",
+          "description": "Automated management of authorizations",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Medical assistant verifying insurance information",
+        "src": "https://images.unsplash.com/photo-1758691463203-cce9d415b2b5?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Patient Verified",
+          "subtitle": "All demographics confirmed"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Proactive Denial Prevention & Revenue Protection",
+      "description": "Our denial prevention strategy focuses on catching issues before they become problems. We use AI-powered claim scrubbing and specialty-specific coding audits to ensure clean claims. By fixing potential errors early, we significantly reduce denials and protect your revenue from costly delays.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Patient Scheduling",
+            "icon": "calendar",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Eligibility & Referral",
+            "icon": "clipboard-check",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Documentation & Coding",
+            "icon": "file-pen",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Claim Scrubbing",
+            "icon": "scanner",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Payer Adjudication",
+            "icon": "monitor-chart",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Denial Management",
+            "icon": "file-warning",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "stethoscope",
+          "title": "All Medical Specialties"
+        },
+        {
+          "icon": "scalpel",
+          "title": "Surgical Groups"
+        },
+        {
+          "icon": "building",
+          "title": "Multi-Specialty Clinics"
+        },
+        {
+          "icon": "user-md",
+          "title": "Independent Physicians"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospital-Based Practices"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "Our team expertly manages all types of denials, from coding errors to medical necessity issues. We work to recover your revenue and resolve the root cause of denials to prevent recurrence.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We ensure clinical data is captured accurately in the EHR to support coding and billing, reducing the risk of clinical validation denials."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "Our integration with care coordination tools helps track the time and complexity of services, providing crucial evidence for appeal."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We manage data from RPM platforms to ensure billing requirements are met for remote care services, preventing associated denials."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "Our advanced billing software automates routine tasks and validates codes, helping to minimize human error and improve first-pass acceptance rates."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Physician Billing?",
+      "image": {
+        "alt": "Team of billing experts analyzing data",
+        "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "points": [
+        "Specialty-specific coding expertise to maximize reimbursement",
+        "High first-pass acceptance rate for clean claims",
+        "Comprehensive denial management and appeals process",
+        "Dedicated account managers for personalized service",
+        "Transparent, detailed reporting on practice performance",
+        "Scalable solutions for practices of any size"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What makes physician billing different from facility billing?",
+          "answer": "Physician billing (professional component) covers the services of the physician or provider, while facility billing (institutional component) covers the use of the hospital or clinic's facility. Our services are specialized for physician billing."
+        },
+        {
+          "question": "How do you ensure accurate coding?",
+          "answer": "We employ AAPC-certified coders with expertise in various specialties. We also use AI-powered coding tools to review and validate codes against clinical documentation."
+        },
+        {
+          "question": "Can you help with denials from Medicare and commercial payers?",
+          "answer": "Yes, our team is experienced in managing denials from all payers, including Medicare, Medicaid, and all major commercial insurance companies."
+        },
+        {
+          "question": "Do you offer services for new practices?",
+          "answer": "Absolutely. We help new practices set up their billing infrastructure, obtain payer contracts, and establish efficient billing workflows from day one."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "medical-billing",
+    "metadata": {
+      "pageTitle": "Medical Billing Services | SoftbeckMedicare ",
+      "metaDescription": "Simplify your revenue cycle with SoftbeckMedicare 's expert medical billing services. Accurate coding, fast claim submission, and comprehensive management for all provider types."
+    },
+    "heroSection": {
+      "title": "Medical Billing Services",
+      "description": "SoftbeckMedicare ’s comprehensive medical billing services are designed to handle all aspects of your revenue cycle. We offer accurate coding, timely claim submission, payment posting, and robust denial management for healthcare providers of all sizes and specialties. Our goal is to maximize your revenue while minimizing administrative burden, allowing you to focus on patient care.",
+      "ctaButton": {
+        "text": "Talk to a Billing Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "96%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "1500+ Providers"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Revenue Increase",
+          "value": "32%"
+        },
+        {
+          "icon": "pill",
+          "label": "Serving Specialties",
+          "value": "50+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Full-Service Billing Solutions & Documentation Support",
+      "description": "Our medical billing services are a one-stop solution for your practice's financial needs. We help ensure your clinical documentation is thorough and accurately supports the codes billed. From converting physician notes into claims to managing the appeal process for denials, we handle the entire billing cycle with accuracy and compliance.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Claim Ready",
+          "subtitle": "Ready for submission",
+          "icon": "file-arrow-up"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Expertly Managed",
+        "icon": "grid-dots"
+      },
+      "title": "Managing Complex Billing for High-Risk Cases",
+      "description": "We specialize in billing for complex cases and high-risk patients that require extensive care coordination and intricate coding. Our experts are proficient in managing the specific billing requirements for these cases, ensuring that you are fully reimbursed for the comprehensive services your practice delivers.",
+      "image": {
+        "alt": "Doctor explaining a complex case to a patient",
+        "src": "https://images.unsplash.com/photo-1758691461935-202e2ef6b69f?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Accurate Patient Enrollment & Eligibility Checks",
+      "description": "We begin with a meticulous patient enrollment and insurance verification process. Our team confirms coverage and obtains necessary authorizations, ensuring that your services are billable and reducing the risk of claim rejections. This foundational step is critical to a smooth and profitable revenue cycle.",
+      "features": [
+        {
+          "title": "Insurance Verification",
+          "description": "Comprehensive coverage checks",
+          "icon": "check"
+        },
+        {
+          "title": "Authorization Management",
+          "description": "Complete documentation and tracking",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Office staff verifying patient information at a computer",
+        "src": "https://plus.unsplash.com/premium_photo-1682141074973-fbe4d41e12d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Authorizations Confirmed",
+          "subtitle": "Valid for service"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Automated Denial Prevention & Revenue Protection",
+      "description": "Our proactive denial prevention strategy uses intelligent technology to identify and correct billing errors before they lead to a denial. We review patient data, coding, and documentation to ensure 100% compliance with payer rules. This approach protects your revenue stream and helps you achieve a cleaner accounts receivable.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Patient Registration",
+            "icon": "user-plus",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Insurance Eligibility",
+            "icon": "user-search",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Clinical Documentation",
+            "icon": "file-medical",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Accurate Coding",
+            "icon": "hashtag",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Pre-bill Claim Review",
+            "icon": "eye",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Payer Adjudication",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "user-md",
+          "title": "Medical Practices of All Sizes"
+        },
+        {
+          "icon": "flask",
+          "title": "Laboratories"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        },
+        {
+          "icon": "building",
+          "title": "Dental & Vision Practices"
+        },
+        {
+          "icon": "heart",
+          "title": "Behavioral Health Practices"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "Our expert denials management team works to identify trends and resolve issues, ensuring you get paid for the care you provide.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We leverage your EHR data to support the clinical necessity of claims and provide strong evidence during the appeal process."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We use care coordination software to document and bill for complex, non-face-to-face services, ensuring no revenue is lost."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "Our team manages the data from RPM platforms, ensuring accurate billing for remote monitoring services and meeting all time-based coding requirements."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We use sophisticated billing and coding software to automate billing tasks, reduce errors, and manage the revenue cycle effectively."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Medical Billing?",
+      "image": {
+        "alt": "Diverse team of billing professionals in a meeting",
+        "src": "https://plus.unsplash.com/premium_photo-1733317206347-e6eeea03bf41?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "points": [
+        "Full-cycle revenue management from patient to payment",
+        "Reduced denial rates and faster claim resolution",
+        "Certified coding experts to maximize accurate reimbursement",
+        "Advanced technology and real-time reporting",
+        "HIPAA-compliant, secure, and auditable processes",
+        "Client-centric service with transparent communication"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is included in your medical billing services?",
+          "answer": "Our services include patient registration and eligibility, medical coding, claim submission, payment posting, denial management, and comprehensive reporting."
+        },
+        {
+          "question": "How do you handle denied claims?",
+          "answer": "We have a dedicated denial management team that analyzes the root cause, corrects any issues, and resubmits or appeals the claim on your behalf."
+        },
+        {
+          "question": "Can you integrate with my current EHR?",
+          "answer": "Yes, our services are designed to integrate seamlessly with a wide variety of EHR and practice management systems."
+        },
+        {
+          "question": "Will I have a dedicated account manager?",
+          "answer": "Yes, every client is assigned a dedicated account manager who serves as your primary point of contact and understands your unique practice needs."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "ar-recovery",
+    "metadata": {
+      "pageTitle": "Accounts Receivable Recovery Services | SoftbeckMedicare ",
+      "metaDescription": "Maximize your cash flow with SoftbeckMedicare 's expert AR recovery services. We reduce days in A/R, recover aged and denied claims, and optimize your revenue cycle."
+    },
+    "heroSection": {
+      "title": "Accounts Receivable (AR) Recovery",
+      "description": "Our Accounts Receivable recovery services are designed to help you get paid faster and more efficiently. We use a multi-faceted approach, including advanced analytics, specialized follow-up, and persistent payer negotiations, to reduce your days in A/R and recover revenue from aged and denied claims. We don't just bill claims; we relentlessly pursue every dollar owed to your practice.",
+      "ctaButton": {
+        "text": "Talk to a Recovery Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "95%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "500+ Practices"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Days in A/R Reduced",
+          "value": "40%"
+        },
+        {
+          "icon": "pill",
+          "label": "Specialties Supported",
+          "value": "50+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Advanced AR Recovery Solutions & Analytics",
+      "description": "We take a data-driven approach to AR recovery. Our team uses advanced analytics to pinpoint the root causes of denials and payment delays. We then create a targeted recovery plan that may include, but is not limited to, appeals, re-submissions, and secondary billing. This systematic approach ensures no revenue is left behind and your cash flow is optimized.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "AR Recovery Status",
+          "subtitle": "Reduced by 25%",
+          "icon": "monitor-chart"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Targeted Recovery",
+        "icon": "grid-dots"
+      },
+      "title": "Focused Recovery for High-Value AR",
+      "description": "Our AR recovery is not a one-size-fits-all process. We identify and prioritize high-value accounts and complex claims, such as those involving workers' compensation, auto accidents, or high-dollar procedures. This focused approach ensures our resources are directed where they have the greatest impact on your bottom line.",
+      "image": {
+        "alt": "Financial analyst reviewing charts of AR data",
+        "src": "https://images.pexels.com/photos/6248957/pexels-photo-6248957.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Correcting Enrollment & Eligibility Issues",
+      "description": "A significant portion of AR issues stems from incorrect patient enrollment and eligibility information. We audit your current and past patient records, correct any demographic or insurance inaccuracies, and resubmit claims that may have been denied due to these errors. This can unlock a substantial amount of previously stalled revenue.",
+      "features": [
+        {
+          "title": "Patient Demographic Correction",
+          "description": "Audit and update profiles",
+          "icon": "check"
+        },
+        {
+          "title": "Insurance Retroactive Eligibility",
+          "description": "Verification for past dates of service",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Staff member reviewing a patient's financial record",
+        "src": "https://images.pexels.com/photos/8413398/pexels-photo-8413398.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Data Corrected",
+          "subtitle": "AR Unblocked"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Preventative AR Management & Revenue Protection",
+      "description": "While our team is expert at recovery, we also implement preventative measures to stop revenue loss at the source. By analyzing your denial data and payer behavior, we identify systemic issues in your billing process and help you fix them. This proactive approach prevents future AR backlogs and protects your long-term cash flow.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "AR Audit",
+            "icon": "clipboard-check",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Denial Analysis",
+            "icon": "chart-pie",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Claim Correction",
+            "icon": "pencil-line",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Appeal Submission",
+            "icon": "file-warning",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Payer Negotiation",
+            "icon": "phone",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Secondary Billing",
+            "icon": "send",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Revenue Collected",
+            "icon": "hand-holding-dollar",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "building",
+          "title": "Hospital Systems"
+        },
+        {
+          "icon": "user-md",
+          "title": "Physician Practices"
+        },
+        {
+          "icon": "flask",
+          "title": "Laboratories"
+        },
+        {
+          "icon": "scan",
+          "title": "Diagnostic Imaging Centers"
+        },
+        {
+          "icon": "heart",
+          "title": "Durable Medical Equipment (DME) Providers"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "Our team attacks denials from every angle to maximize recovery and resolve underlying causes.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We use your EHR data to provide the clinical evidence needed to successfully appeal denials."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We integrate with care coordination tools to substantiate the time and complexity of services in appeals."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We manage RPM platform data to recover revenue for remote monitoring services that were denied."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We use billing software to automate the resubmission of corrected claims, accelerating the recovery process."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for AR Recovery?",
+      "image": {
+        "alt": "Financial team celebrating a recovery success",
+        "src": "https://images.pexels.com/photos/7108248/pexels-photo-7108248.jpeg"
+      },
+      "points": [
+        "Expert team specializing in complex AR and denial recovery",
+        "Proven track record of reducing days in A/R by 40%",
+        "Data-driven strategies to maximize revenue",
+        "Aggressive yet professional payer negotiations",
+        "Transparent reporting on recovery progress",
+        "Deep understanding of payer-specific rules and regulations"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What does AR recovery mean?",
+          "answer": "AR recovery is the process of collecting payments from insurance companies and patients for outstanding, unpaid, or denied claims."
+        },
+        {
+          "question": "Why are my AR days so high?",
+          "answer": "High AR days can be caused by a variety of issues, including coding errors, missing information on claims, payer delays, and ineffective follow-up. We diagnose and fix these issues."
+        },
+        {
+          "question": "How do you handle old, aged claims?",
+          "answer": "Our team has experience recovering revenue on claims of all ages. We have specific strategies for working with payers to get aged claims paid."
+        },
+        {
+          "question": "Can you help with complex denials?",
+          "answer": "Yes, we specialize in managing complex denials, such as those for medical necessity, experimental/investigational services, and pre-authorization."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "laboratory-billing",
+    "metadata": {
+      "pageTitle": "Laboratory Billing Services | SoftbeckMedicare ",
+      "metaDescription": "Streamline your lab's revenue cycle with SoftbeckMedicare 's specialized billing services. Expert in handling complex coding, NCDs/LCDs, and payer policies."
+    },
+    "heroSection": {
+      "title": "Laboratory Billing Services",
+      "description": "Our specialized laboratory billing services are designed for the unique challenges of clinical and pathology labs. We excel at managing high-volume, low-dollar claims with accuracy and efficiency. Our expertise in NCDs, LCDs, genetic testing, and molecular pathology coding ensures that your lab captures every dollar while maintaining full compliance.",
+      "ctaButton": {
+        "text": "Talk to a Lab Billing Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "93%"
+        },
+        {
+          "icon": "flask",
+          "label": "Trusted by",
+          "value": "100+ Labs"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Revenue Increase",
+          "value": "25%"
+        },
+        {
+          "icon": "microscope",
+          "label": "Test Types",
+          "value": "1000+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Comprehensive Lab Billing Solutions & Compliance",
+      "description": "We provide full-cycle billing for laboratories, covering everything from patient enrollment to claim submission and AR recovery. Our solutions are designed to handle the complexity of lab billing, including ICD-10 mapping, modifier usage, and compliance with evolving payer policies. We ensure your documentation supports the medical necessity of each test, preventing costly denials.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Claim Processed",
+          "subtitle": "Lab test accepted",
+          "icon": "microscope"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Specialized Focus",
+        "icon": "grid-dots"
+      },
+      "title": "Specialized Coding for Complex Lab Tests",
+      "description": "We specialize in coding for complex lab services, including genetic and molecular testing. Our certified coders stay up-to-date on the latest NCDs, LCDs, and payer policies to ensure accurate and compliant code selection for even the most esoteric tests, reducing the risk of audits and denials.",
+      "image": {
+        "alt": "Scientist working in a high-tech laboratory",
+        "src": "https://images.pexels.com/photos/9574540/pexels-photo-9574540.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Efficient Patient Enrollment & Eligibility Checks",
+      "description": "For labs, accuracy in enrollment is crucial. We manage patient enrollment and verify insurance coverage at the point of access. Our system ensures that all payer requirements, including prior authorization for expensive tests, are handled upfront to prevent billing delays and write-offs.",
+      "features": [
+        {
+          "title": "Prior Authorization",
+          "description": "Management for high-cost tests",
+          "icon": "check"
+        },
+        {
+          "title": "Insurance Verification",
+          "description": "Real-time coverage confirmation",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Lab technician processing samples with patient records nearby",
+        "src": "https://images.pexels.com/photos/9629671/pexels-photo-9629671.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Eligibility Verified",
+          "subtitle": "Coverage confirmed"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Proactive Denial Prevention for Laboratories",
+      "description": "Our denial prevention strategy for labs focuses on strict compliance with complex coding rules and medical necessity documentation. We use AI-powered claim scrubbing specifically designed for lab services. By proactively verifying clinical indications and payer policies, we significantly reduce denials and ensure timely reimbursement.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Order Entry",
+            "icon": "clipboard-pulse",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Patient Demographics",
+            "icon": "user-pen",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Eligibility Check",
+            "icon": "user-search",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Specialized Coding",
+            "icon": "hashtag",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Claim Scrubber",
+            "icon": "scanner",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Payer Adjudication",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "flask",
+          "title": "Clinical & Pathology Laboratories"
+        },
+        {
+          "icon": "dna",
+          "title": "Genetic & Molecular Testing Labs"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospital Outpatient Labs"
+        },
+        {
+          "icon": "building",
+          "title": "Independent Reference Labs"
+        },
+        {
+          "icon": "user-md",
+          "title": "Physician Office Labs"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "Our denials management for labs includes deep knowledge of payer-specific policies for laboratory services.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We utilize EHR data to substantiate medical necessity, especially for complex tests, during the appeals process."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We integrate with care coordination tools to track and bill for services related to complex diagnostic workflows."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We support billing for remote patient monitoring data analysis if it is tied to laboratory services."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We use advanced billing software tailored for high-volume claims, ensuring fast and accurate submissions."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Laboratory Billing?",
+      "image": {
+        "alt": "Team of lab billing experts reviewing claims",
+        "src": "https://images.pexels.com/photos/8442621/pexels-photo-8442621.jpeg"
+      },
+      "points": [
+        "Specialized expertise in lab-specific CPT and ICD-10 coding",
+        "Deep understanding of NCDs, LCDs, and payer coverage policies",
+        "Proven strategies for managing high-volume claims accurately",
+        "Aggressive denial management with a high success rate",
+        "Advanced technology for clean claim submission",
+        "Focus on maximizing reimbursement for molecular and genetic testing"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How do you handle Medicare LCD/NCD rules for lab tests?",
+          "answer": "Our team is fully trained on the latest Local and National Coverage Determinations. We ensure that tests billed meet all medical necessity and coverage criteria."
+        },
+        {
+          "question": "What are the biggest challenges in lab billing?",
+          "answer": "Major challenges include keeping up with frequent coding changes, managing prior authorizations for expensive tests, and navigating complex coverage policies for new molecular tests."
+        },
+        {
+          "question": "Can you help with billing for genetic tests?",
+          "answer": "Yes, we have specialized expertise in coding and billing for genetic and molecular testing, which often require specific modifiers and detailed clinical documentation."
+        },
+        {
+          "question": "How do you manage the high volume of claims?",
+          "answer": "We use advanced, scalable billing software and automated workflows designed specifically to handle high-volume, low-dollar claim submissions."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "hospital-billing",
+    "metadata": {
+      "pageTitle": "Hospital Billing Services | SoftbeckMedicare ",
+      "metaDescription": "Optimize your hospital's revenue cycle with SoftbeckMedicare 's expert institutional billing services. We handle complex billing, UB-04 claims, and compliance."
+    },
+    "heroSection": {
+      "title": "Hospital Billing Services",
+      "description": "SoftbeckMedicare  provides comprehensive hospital billing services for health systems of all sizes. We specialize in institutional billing, managing everything from patient access and coding (ICD-10-PCS and CPT) to claim submission (UB-04), denial management, and compliance. Our expert team helps you navigate the complexities of hospital reimbursement, maximizing revenue and improving financial performance.",
+      "ctaButton": {
+        "text": "Talk to a Hospital Billing Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "95%"
+        },
+        {
+          "icon": "hospital",
+          "label": "Trusted by",
+          "value": "30+ Hospitals"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Revenue Increase",
+          "value": "25%"
+        },
+        {
+          "icon": "building",
+          "label": "Beds Supported",
+          "value": "10000+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "End-to-End Hospital Billing Solutions & Compliance",
+      "description": "Our hospital billing solutions cover the entire patient journey, from pre-admission to final payment. We provide expert support for facility coding, MS-DRG and APC assignment, and claim submission. We ensure your documentation accurately reflects the intensity of care and supports the complexity of services rendered to secure the appropriate reimbursement for every patient encounter.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "DRG Assigned",
+          "subtitle": "Claim in process",
+          "icon": "hospital"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Expertly Managed",
+        "icon": "grid-dots"
+      },
+      "title": "Managing Complex Inpatient & Outpatient Billing",
+      "description": "Hospitals handle a wide range of complex cases, from routine outpatient procedures to multi-day inpatient stays. Our team is expert at managing the specific billing requirements for all types of hospital encounters, ensuring accurate coding, clean claim submission, and effective management of denials for even the most complex cases.",
+      "image": {
+        "alt": "Medical team discussing a patient's treatment plan",
+        "src": "https://images.pexels.com/photos/7108332/pexels-photo-7108332.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Comprehensive Patient Access & Eligibility",
+      "description": "We optimize your hospital's patient access process to maximize revenue. Our services include real-time insurance verification, prior authorization management, and accurate patient estimation. This ensures a smooth financial process from the very beginning of the patient encounter, reducing the risk of billing issues and improving patient satisfaction.",
+      "features": [
+        {
+          "title": "Patient Access Optimization",
+          "description": "Streamlined registration and check-in",
+          "icon": "check"
+        },
+        {
+          "title": "Prior Authorization",
+          "description": "Management for inpatient & outpatient procedures",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Hospital registration staff assisting a patient",
+        "src": "https://images.pexels.com/photos/7108326/pexels-photo-7108326.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Admission Verified",
+          "subtitle": "Benefits confirmed"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Advanced Denial Prevention & Revenue Protection",
+      "description": "Our denial prevention strategy for hospitals uses AI-powered analytics to identify at-risk claims before submission. We analyze thousands of data points to flag issues with coding, medical necessity, and compliance. By proactively correcting these issues, we significantly reduce denial rates, protect your revenue, and improve cash flow.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Patient Access",
+            "icon": "user-plus",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Eligibility Check",
+            "icon": "user-search",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Pre-Authorization",
+            "icon": "file-check",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Facility Coding",
+            "icon": "hashtag",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Charge Capture",
+            "icon": "receipt-dollar",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Payer Adjudication",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "hospital",
+          "title": "Community & Rural Hospitals"
+        },
+        {
+          "icon": "building",
+          "title": "Academic Medical Centers"
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Multi-Hospital Health Systems"
+        },
+        {
+          "icon": "siren-plus",
+          "title": "Specialty Hospitals (Cardiac, Orthopedic, etc.)"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "Our hospital denial management team uses a strategic approach to overturn denials and address their root causes.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We leverage your EHR data to provide the necessary clinical documentation for successful appeals and DRG validation."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We ensure all care coordination activities are documented and billed for, supporting the full continuum of patient care."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We manage data from RPM platforms to support billing for outpatient and post-discharge remote monitoring services."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We use enterprise-level billing software to manage the high volume of claims and ensure accurate UB-04 submissions."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Hospital Billing?",
+      "image": {
+        "alt": "Hospital administrators meeting with billing experts",
+        "src": "https://images.pexels.com/photos/6129106/pexels-photo-6129106.jpeg"
+      },
+      "points": [
+        "Deep expertise in institutional billing (UB-04) and facility coding",
+        "Proven ability to reduce AR days and improve clean-claim rates",
+        "Expertise in managing MS-DRG and APC assignments",
+        "Comprehensive denial management and appeals for hospitals",
+        "Seamless integration with major hospital EHRs",
+        "Scalable solutions for single hospitals and large health systems"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is institutional billing?",
+          "answer": "Institutional billing is the process of billing for facility services provided in a hospital or clinic setting, typically on a UB-04 form."
+        },
+        {
+          "question": "What is the difference between professional and hospital billing?",
+          "answer": "Professional billing covers the physician's services, while hospital billing (institutional) covers the facility's costs, such as bed, nursing, and equipment."
+        },
+        {
+          "question": "How do you handle DRG validation?",
+          "answer": "Our coding experts ensure accurate clinical documentation to support the correct DRG assignment and work to overturn payer-initiated DRG downgrades."
+        },
+        {
+          "question": "Can you help with Medicare and Medicaid reimbursement?",
+          "answer": "Yes, we have extensive experience with government reimbursement models, including IPPS, OPPS, and state-specific Medicaid programs."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "imaging-billing",
+    "metadata": {
+      "pageTitle": "Imaging Billing Services | SoftbeckMedicare ",
+      "metaDescription": "Simplify your radiology practice's revenue cycle with SoftbeckMedicare 's expert imaging billing services. Expertise in CPT, modifiers, and coding guidelines."
+    },
+    "heroSection": {
+      "title": "Imaging Billing Services",
+      "description": "Our specialized imaging billing services are designed for radiology and imaging centers. We handle the unique complexities of this specialty, from coding for multiple modalities (MRI, CT, Ultrasound, etc.) to navigating the intricate guidelines of professional and technical components. Our expert team ensures accurate reimbursement and compliance, allowing you to focus on diagnostic excellence.",
+      "ctaButton": {
+        "text": "Talk to an Imaging Billing Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Collection Ratio",
+          "value": "96%"
+        },
+        {
+          "icon": "scan",
+          "label": "Trusted by",
+          "value": "150+ Imaging Centers"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Revenue Increase",
+          "value": "28%"
+        },
+        {
+          "icon": "pill",
+          "label": "Modalities Supported",
+          "value": "15+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Specialized Imaging Billing Solutions & Compliance",
+      "description": "We provide comprehensive billing solutions for all imaging modalities, including MRI, CT, PET/CT, Ultrasound, X-ray, and more. Our certified coders are experts in radiology coding, including the use of modifiers (-26, -TC, -LT, -RT) and the proper documentation for professional and technical components. This ensures that your practice captures the full revenue for all services rendered.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Study Completed",
+          "subtitle": "Billing ready",
+          "icon": "scan"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Specialty Focused",
+        "icon": "grid-dots"
+      },
+      "title": "Coding Expertise for High-Value Imaging",
+      "description": "We understand the nuances of coding for high-value imaging services. Our team ensures that your documentation supports the medical necessity for complex scans and that all procedures are coded correctly to reflect the work performed, reducing the risk of downcoding and maximizing reimbursement.",
+      "image": {
+        "alt": "MRI technician operating the scanner",
+        "src": "https://images.pexels.com/photos/36546147/pexels-photo-36546147.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Precise Patient Enrollment & Eligibility",
+      "description": "We manage patient enrollment and eligibility verification for imaging procedures. This includes confirming insurance coverage and obtaining prior authorizations, which are often required for high-cost imaging. This upfront work prevents denials and helps your center get paid quickly for the services you provide.",
+      "features": [
+        {
+          "title": "Prior Authorization",
+          "description": "Management for all imaging studies",
+          "icon": "check"
+        },
+        {
+          "title": "Eligibility Verification",
+          "description": "Real-time coverage checks",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Radiologist reviewing images on a computer screen",
+        "src": "https://images.pexels.com/photos/7089302/pexels-photo-7089302.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Authorization Obtained",
+          "subtitle": "Study approved"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Proactive Denial Prevention for Imaging",
+      "description": "Our denial prevention for imaging services focuses on the high-risk areas that lead to denials, such as medical necessity, appropriate CPT code selection, and correct modifier usage. We use AI-powered claim scrubbing tailored to radiology to catch errors early, ensuring a clean claim submission and a low denial rate.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Scheduling",
+            "icon": "calendar",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Verification",
+            "icon": "user-search",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Authorization",
+            "icon": "file-check",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Technical Coding",
+            "icon": "hashtag",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Professional Coding",
+            "icon": "hashtag",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Payer Adjudication",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "scan",
+          "title": "Freestanding Imaging Centers"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospital Radiology Departments"
+        },
+        {
+          "icon": "building",
+          "title": "Multi-Specialty Clinics"
+        },
+        {
+          "icon": "user-md",
+          "title": "Interventional Radiology Practices"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management Services We Provide",
+      "description": "Our denials management team excels at resolving imaging-specific denials.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We use EHR data to demonstrate the clinical necessity of imaging studies and provide strong clinical evidence for appeals."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We integrate care coordination tools to support billing for complex imaging workflows and patient management."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We support billing for remote image interpretation and monitoring services where applicable."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We use specialized billing software to ensure accurate coding for both the professional and technical components of imaging procedures."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Imaging Billing?",
+      "image": {
+        "alt": "Team of imaging billing specialists reviewing a scan",
+        "src": "https://images.pexels.com/photos/4226257/pexels-photo-4226257.jpeg"
+      },
+      "points": [
+        "Specialized expertise in all imaging modalities and CPT codes",
+        "Deep understanding of professional and technical billing",
+        "Expert management of modifiers (-26, -TC, -LT, -RT)",
+        "Proactive prior authorization and denial management",
+        "High success rate in appealing imaging denials",
+        "Ensures full reimbursement for complex diagnostic scans"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is the difference between professional and technical billing for imaging?",
+          "answer": "Professional billing covers the physician's interpretation, while technical billing covers the use of the equipment, supplies, and facility costs."
+        },
+        {
+          "question": "What are the most common modifiers used in imaging billing?",
+          "answer": "The most common modifiers are -26 (Professional Component), -TC (Technical Component), -LT (Left side), and -RT (Right side)."
+        },
+        {
+          "question": "How do you handle prior authorizations for imaging?",
+          "answer": "Our team manages the entire prior authorization process for all imaging studies, ensuring compliance with payer requirements."
+        },
+        {
+          "question": "What is the most frequent denial reason in imaging?",
+          "answer": "Medical necessity is a very common denial reason for imaging. Our team ensures your documentation clearly supports the need for the study."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "staffing-and-workforce-services",
+    "metadata": {
+      "pageTitle": "Healthcare Staffing & Workforce Services | SoftbeckMedicare ",
+      "metaDescription": "Solve your medical practice's staffing challenges with SoftbeckMedicare . We provide skilled professionals for medical billing, coding, and administrative roles."
+    },
+    "heroSection": {
+      "title": "Staffing and Workforce Services",
+      "description": "Our staffing and workforce services provide you with qualified, experienced professionals to fill critical roles in your practice or revenue cycle department. We offer flexible staffing solutions for medical billing, coding, accounts receivable, and administrative support, ensuring you have the right talent, when you need it, to optimize your operations and revenue cycle.",
+      "ctaButton": {
+        "text": "Talk to a Staffing Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "users",
+          "label": "Trusted by",
+          "value": "300+ Practices"
+        },
+        {
+          "icon": "user-check",
+          "label": "Placed Professionals",
+          "value": "1000+"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Client Retention",
+          "value": "98%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Specialties Served",
+          "value": "50+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Comprehensive Staffing Solutions & Services",
+      "description": "We provide staffing solutions for a wide range of revenue cycle and administrative roles. We thoroughly vet all candidates to ensure they have the required certifications (e.g., AAPC, AHIMA), experience, and skills. Our services help you reduce the time and cost of hiring, allowing you to quickly fill gaps in your team and maintain operational efficiency.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Placement Successful",
+          "subtitle": "New team member onboarded",
+          "icon": "users"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Specialized Talent",
+        "icon": "grid-dots"
+      },
+      "title": "Find the Right Specialist for Your Practice",
+      "description": "We understand that not all roles are the same. We have a vast network of specialists, including coders for specific fields (e.g., cardiology, radiology), billing experts for complex payers, and AR recovery specialists. We can find the right expert to meet the unique needs of your practice or department.",
+      "image": {
+        "alt": "New employee being onboarded by a team member",
+        "src": "https://images.pexels.com/photos/5327578/pexels-photo-5327578.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Our Staffing Process and Eligibility",
+      "description": "Our streamlined staffing process begins with understanding your specific role requirements, culture, and challenges. We then source, screen, and present qualified candidates for your review. All candidates undergo a comprehensive skills assessment and background check to ensure they are eligible and ready to contribute from day one.",
+      "features": [
+        {
+          "title": "Stringent Vetting",
+          "description": "Skills assessments and certifications",
+          "icon": "check"
+        },
+        {
+          "title": "Tailored Sourcing",
+          "description": "Based on your unique needs",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "HR professional interviewing a candidate",
+        "src": "https://images.pexels.com/photos/5439455/pexels-photo-5439455.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Candidate Vetted",
+          "subtitle": "Ready to hire"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Prevent Revenue Loss with Skilled Staff",
+      "description": "Staffing gaps can lead to a backlog of claims, coding errors, and missed revenue. By providing you with skilled professionals, we help you prevent these problems. Our staff are trained in the latest billing and coding standards, ensuring you have the talent you need to maintain a healthy revenue cycle and prevent financial losses.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Identify Staffing Need",
+            "icon": "search",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Sourcing & Screening",
+            "icon": "user-search",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Skills Assessment",
+            "icon": "clipboard-edit",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Background Check",
+            "icon": "file-check",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Candidate Presentation",
+            "icon": "users",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Hire & Onboarding",
+            "icon": "user-plus",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Performance Monitoring",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Ongoing Support",
+            "icon": "handshake",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "building",
+          "title": "Medical Practices of All Sizes"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "flask",
+          "title": "Laboratories"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        },
+        {
+          "icon": "users",
+          "title": "Billing Companies"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Staffing for Denials Management",
+      "description": "We provide expert staff to support your denials management and revenue recovery efforts.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We supply professionals who are experts in navigating and extracting data from your EHR to support appeals."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "Our staff are trained on care coordination software to ensure accurate billing for complex patient management."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We provide professionals who can manage and bill for remote patient monitoring services effectively."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We place coders and billers who are proficient in the latest billing and coding software."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Staffing?",
+      "image": {
+        "alt": "Group of happy, diverse employees in a modern office",
+        "src": "https://images.pexels.com/photos/5355850/pexels-photo-5355850.jpeg"
+      },
+      "points": [
+        "Access to a large pool of experienced healthcare professionals",
+        "Rigorous screening and vetting process",
+        "Flexible staffing options to meet your changing needs",
+        "Reduced time and cost of hiring",
+        "Focus on placement quality and long-term success",
+        "Specialists in revenue cycle and administrative roles"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What types of roles do you staff for?",
+          "answer": "We staff for medical billers, certified coders (AAPC/AHIMA), AR recovery specialists, denial management experts, patient access representatives, and other administrative roles."
+        },
+        {
+          "question": "Are your candidates certified?",
+          "answer": "Yes, we prioritize candidates who hold relevant certifications such as CPC, CRC, RHIA, or other industry-recognized credentials."
+        },
+        {
+          "question": "Can you help with temporary or permanent placement?",
+          "answer": "Yes, we offer both temporary (contract) and permanent staffing solutions to fit your specific needs."
+        },
+        {
+          "question": "How quickly can you fill a position?",
+          "answer": "Our timeline varies, but we have a large network and can often present qualified candidates within a few days to a week."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "remote-patient-monitoring",
+    "metadata": {
+      "pageTitle": "Remote Patient Monitoring (RPM) Services | SoftbeckMedicare ",
+      "metaDescription": "Implement a successful Remote Patient Monitoring program with SoftbeckMedicare . We provide complete RPM services, including device management, billing, and monitoring."
+    },
+    "heroSection": {
+      "title": "Remote Patient Monitoring (RPM) Services",
+      "description": "Our Remote Patient Monitoring services help you launch and manage a successful RPM program. We handle everything from patient enrollment and device deployment to data monitoring and billing. Our turnkey solutions help you improve patient outcomes, increase engagement, and generate a new, recurring revenue stream while reducing hospital readmissions.",
+      "ctaButton": {
+        "text": "Talk to an RPM Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Revenue Increase",
+          "value": "$500K+ Annually"
+        },
+        {
+          "icon": "heart",
+          "label": "Trusted by",
+          "value": "500+ Providers"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Patient Engagement",
+          "value": "85%"
+        },
+        {
+          "icon": "monitor-clock",
+          "label": "Data Points Managed",
+          "value": "1M+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "End-to-End RPM Solutions & Documentation Support",
+      "description": "We provide a fully integrated RPM solution, including FDA-cleared devices, a patient-friendly mobile app, and a clinician dashboard for real-time data review. We also support the documentation and billing processes, ensuring you capture the required CPT codes (99453, 99454, 99457, 99458) with accurate time logs and care management notes.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Vital Signs Received",
+          "subtitle": "Patient monitoring active",
+          "icon": "monitor-chart"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Data-Driven",
+        "icon": "grid-dots"
+      },
+      "title": "Proactive Care for High-Risk Patients with RPM",
+      "description": "RPM is particularly effective for managing high-risk patients with chronic conditions like hypertension, diabetes, and heart failure. Our service provides 24/7 monitoring, allowing your practice to detect and intervene early on potentially dangerous health events. This proactive approach improves patient outcomes and reduces the need for emergency visits.",
+      "image": {
+        "alt": "Nurse monitoring patient vitals on a tablet",
+        "src": "https://images.pexels.com/photos/6011656/pexels-photo-6011656.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Patient Enrollment, Setup & Eligibility",
+      "description": "We manage the entire patient enrollment process for RPM. Our team verifies insurance eligibility, secures patient consent, and provides comprehensive device setup and training. We ensure a smooth experience for both your practice and your patients, removing all the administrative hurdles of starting an RPM program.",
+      "features": [
+        {
+          "title": "Device Management",
+          "description": "Shipping, setup, and technical support",
+          "icon": "check"
+        },
+        {
+          "title": "Patient Consent",
+          "description": "Digital and written consent management",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Patient using a remote monitoring device at home",
+        "src": "https://images.pexels.com/photos/8376252/pexels-photo-8376252.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Device Active",
+          "subtitle": "Patient enrolled"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "RPM Billing & Denial Prevention",
+      "description": "Our RPM billing solution is designed to maximize reimbursement and minimize denials. We use AI to pre-validate CPT codes, time thresholds, and medical necessity for RPM services. Our team ensures that your documentation meets all CMS and commercial payer guidelines, leading to clean claims and consistent monthly revenue.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Patient Enrollment",
+            "icon": "user-plus",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Device Deployment",
+            "icon": "monitor",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Data Transmission",
+            "icon": "signal",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Clinical Data Review",
+            "icon": "eye",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Time Tracking",
+            "icon": "clock",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Documentation",
+            "icon": "file-pen",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "stethoscope",
+          "title": "Primary Care Practices"
+        },
+        {
+          "icon": "heart",
+          "title": "Cardiology & Pulmonology Practices"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "building",
+          "title": "Accountable Care Organizations (ACOs)"
+        },
+        {
+          "icon": "user-md",
+          "title": "Chronic Care Management (CCM) Providers"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "RPM Denials Management",
+      "description": "We handle denials specific to RPM services, including those related to time tracking and device management.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We integrate RPM data with your EHR to provide a seamless clinical workflow and support documentation for billing."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We track all care coordination activities performed as part of your RPM program to ensure accurate billing."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We are experts in the RPM platforms themselves, ensuring data integrity and proper billing for the service."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "Our billing software automates the CPT code selection for RPM, ensuring compliance and timely submission."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Remote Patient Monitoring?",
+      "image": {
+        "alt": "Care team reviewing patient data on a large digital dashboard",
+        "src": "https://images.pexels.com/photos/15096572/pexels-photo-15096572.jpeg"
+      },
+      "points": [
+        "Complete, turnkey RPM program from enrollment to billing",
+        "Expert in CMS RPM coding (CPT 99453, 99454, 99457, 99458)",
+        "Increased patient engagement and improved outcomes",
+        "A new, recurring revenue stream for your practice",
+        "Seamless integration with your existing EHR",
+        "24/7 clinical monitoring and support for your patients"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What CPT codes are used for Remote Patient Monitoring?",
+          "answer": "The primary CPT codes are 99453 (setup), 99454 (device supply), 99457 (first 20 minutes of clinical staff time), and 99458 (additional clinical staff time)."
+        },
+        {
+          "question": "What devices do you use for RPM?",
+          "answer": "We use a range of FDA-cleared devices for monitoring blood pressure, glucose, weight, pulse oximetry, and more, depending on your patients' needs."
+        },
+        {
+          "question": "How much time is required to bill for RPM services?",
+          "answer": "CPT 99457 requires at least 20 minutes of clinical staff time dedicated to the RPM service in a calendar month. CPT 99458 is for each additional 20 minutes."
+        },
+        {
+          "question": "Can RPM be billed along with Chronic Care Management (CCM)?",
+          "answer": "Yes, RPM and CCM can be billed together, provided the time and documentation requirements are met for each service separately."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "bi-reporting-services",
+    "metadata": {
+      "pageTitle": "Business Intelligence Reporting Services | SoftbeckMedicare ",
+      "metaDescription": "Unlock the power of your data with SoftbeckMedicare 's BI reporting services. Get custom dashboards, analytics, and insights to make data-driven decisions."
+    },
+    "heroSection": {
+      "title": "BI Reporting Services",
+      "description": "Our Business Intelligence (BI) reporting services transform your raw healthcare data into actionable insights. We build custom dashboards and reports that provide clear visibility into your revenue cycle performance, operational efficiency, and clinical outcomes. With our data-driven analytics, you can identify trends, optimize your financial health, and make informed strategic decisions.",
+      "ctaButton": {
+        "text": "Talk to a BI Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "chart-pie",
+          "label": "Trusted by",
+          "value": "200+ Clients"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Data Insights",
+          "value": "500+"
+        },
+        {
+          "icon": "monitor-chart",
+          "label": "Custom Dashboards",
+          "value": "1000+"
+        },
+        {
+          "icon": "clock",
+          "label": "Time Saved",
+          "value": "50%+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Custom BI Solutions & Analytics",
+      "description": "We offer a full range of BI solutions, from building user-friendly dashboards to conducting in-depth data analysis. We specialize in integrating data from multiple sources, including EHRs, billing systems, and practice management software. Our custom reports provide you with the metrics that matter most to your organization, helping you track performance, monitor KPIs, and identify areas for improvement.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Revenue Summary",
+          "subtitle": "Dashboard updated",
+          "icon": "chart-pie"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Data-Driven",
+        "icon": "grid-dots"
+      },
+      "title": "Analyzing High-Risk Populations with Data",
+      "description": "Our BI tools can help you identify and track your high-risk patient populations. By analyzing data on chronic conditions, utilization, and social determinants of health, you can proactively manage these patients, improve outcomes, and reduce costs. This allows for more effective population health management and value-based care.",
+      "image": {
+        "alt": "Data analyst examining a large interactive dashboard",
+        "src": "https://images.pexels.com/photos/7567595/pexels-photo-7567595.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Data Integration & Eligibility Reporting",
+      "description": "Our BI services begin with integrating all your data sources into a single, unified platform. We then create custom reports to analyze patient enrollment and eligibility trends. This helps you identify gaps in coverage, improve your enrollment processes, and ensure you are maximizing eligible patient populations for programs like CCM and RPM.",
+      "features": [
+        {
+          "title": "Multi-Source Integration",
+          "description": "EHR, billing, and practice management",
+          "icon": "check"
+        },
+        {
+          "title": "Eligibility Analytics",
+          "description": "Track coverage and enrollment trends",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "IT professional working on server integration",
+        "src": "https://images.pexels.com/photos/37605911/pexels-photo-37605911.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Data Integrated",
+          "subtitle": "Ready for analysis"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Denial Prevention with Predictive Analytics",
+      "description": "Our advanced analytics can predict which claims are most likely to be denied, allowing you to intervene proactively. By identifying patterns and risk factors, you can focus your resources on fixing issues before claims are submitted. This predictive approach reduces denial rates, improves cash flow, and protects your revenue.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Data Collection",
+            "icon": "database",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Data Integration",
+            "icon": "arrow-merge",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Data Cleansing",
+            "icon": "broom",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "KPI Analysis",
+            "icon": "chart-scatter",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Predictive Modeling",
+            "icon": "brain",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Dashboard Creation",
+            "icon": "layout-dashboard",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Insight Generation",
+            "icon": "lightbulb",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Actionable Reporting",
+            "icon": "file-arrow-down",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "building",
+          "title": "Medical Practices & Groups"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "users",
+          "title": "ACOs & s"
+        },
+        {
+          "icon": "flask",
+          "title": "Labs & Diagnostic Centers"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "BI for Denials Management",
+      "description": "We use our BI tools to analyze denial trends, identify root causes, and track recovery performance.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We extract and analyze data from your EHR to identify patterns in denials related to clinical documentation."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We analyze data from care coordination tools to track and report on the effectiveness of patient management programs."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We create reports on RPM data to show program adoption, patient engagement, and clinical outcomes."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We generate reports from billing software to track A/R, denial rates, and other key financial metrics."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for BI Reporting?",
+      "image": {
+        "alt": "Team of data scientists and business analysts in a meeting",
+        "src": "https://images.pexels.com/photos/7869111/pexels-photo-7869111.jpeg"
+      },
+      "points": [
+        "Turn raw data into actionable business insights",
+        "Custom dashboards tailored to your specific KPIs",
+        "Expertise in healthcare data integration and analytics",
+        "Predictive analytics to prevent denials and drive performance",
+        "Data-driven strategy to improve financial and clinical outcomes",
+        "HIPAA-compliant and secure data management"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is Business Intelligence in healthcare?",
+          "answer": "Business Intelligence (BI) involves using technology and data analysis to provide actionable information to help healthcare executives, managers, and clinicians make better-informed decisions."
+        },
+        {
+          "question": "What kind of reports do you create?",
+          "answer": "We create a wide range of reports, including revenue cycle analytics (A/R, denials, collections), operational dashboards, referral pattern analysis, and population health metrics."
+        },
+        {
+          "question": "Can you integrate my existing systems?",
+          "answer": "Yes, we specialize in integrating data from various sources, including EHRs, practice management systems, and billing software, to create a comprehensive view of your organization."
+        },
+        {
+          "question": "Do you offer predictive analytics?",
+          "answer": "Yes, we use predictive modeling to forecast trends, such as denial probability and patient health risks, to support proactive decision-making."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "healthcare-data-integration-solutions",
+    "metadata": {
+      "pageTitle": "Healthcare Data Integration Solutions | SoftbeckMedicare ",
+      "metaDescription": "Achieve seamless interoperability with SoftbeckMedicare 's healthcare data integration solutions. We connect EHRs, billing systems, and analytics platforms."
+    },
+    "heroSection": {
+      "title": "Healthcare Data Integration Solutions",
+      "description": "Our healthcare data integration solutions help you break down data silos and achieve true interoperability. We connect your disparate systems, including EHRs, billing platforms, and analytics tools, to create a single, unified source of truth. Our solutions ensure that your data flows seamlessly, improving operational efficiency, clinical decision-making, and revenue cycle performance.",
+      "ctaButton": {
+        "text": "Talk to an Integration Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "network",
+          "label": "Systems Integrated",
+          "value": "150+"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "300+ Organizations"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Efficiency Gain",
+          "value": "60%"
+        },
+        {
+          "icon": "server",
+          "label": "Data Points Moved",
+          "value": "5M+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Integration Solutions & Seamless Data Flow",
+      "description": "We provide end-to-end integration solutions that connect your entire healthcare ecosystem. Our experts are proficient with HL7, FHIR, and other industry standards. We build robust and secure integrations that ensure your data is always accurate, up-to-date, and accessible to the right people at the right time, eliminating manual data entry and reducing errors.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "System Integration",
+          "subtitle": "EHR <> Billing Connected",
+          "icon": "network"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Seamless Data",
+        "icon": "grid-dots"
+      },
+      "title": "Supporting Complex Care with Integrated Data",
+      "description": "For high-risk patients, having a complete picture of their data is crucial. Our integration solutions ensure that data from RPM devices, lab results, and other specialties is automatically aggregated into the patient record. This gives your care team the 360-degree view they need to make informed decisions and provide coordinated care.",
+      "image": {
+        "alt": "A diagram showing interconnected healthcare systems",
+        "src": "https://plus.unsplash.com/premium_photo-1698421947098-d68176a8f5b2?q=80&w=752&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Streamlined Enrollment with System Integration",
+      "description": "We integrate your enrollment and eligibility systems to create a seamless patient experience. By connecting your practice management system with payer portals and your EHR, we automate the verification process, reduce duplicate data entry, and ensure that your enrollment data is always current and accurate.",
+      "features": [
+        {
+          "title": "EHR Integration",
+          "description": "Automated data flow to and from your EHR",
+          "icon": "check"
+        },
+        {
+          "title": "Payer API Connectivity",
+          "description": "Real-time eligibility checks",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Graphic representation of healthcare data integration",
+        "src": "https://images.unsplash.com/photo-1758691462668-046fd85ceac9?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "System Sync",
+          "subtitle": "Data unified"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Reducing Denials with Data Integration",
+      "description": "Data integration is key to denial prevention. By ensuring seamless data flow, we help eliminate errors caused by manual data entry, missing information, and outdated patient records. With a unified system, your claims are more accurate, complete, and compliant, leading to higher clean-claim rates and faster payment.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Source Systems",
+            "icon": "database",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Data Extraction",
+            "icon": "arrow-merge",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Data Transformation",
+            "icon": "pencil-rotate",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Data Loading",
+            "icon": "cloud-upload",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Data Validation",
+            "icon": "check-circle",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Unified Repository",
+            "icon": "server",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Access & Analytics",
+            "icon": "eye",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Actionable Insights",
+            "icon": "lightbulb",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "building",
+          "title": "Large Medical Practices"
+        },
+        {
+          "icon": "flask",
+          "title": "Laboratories"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        },
+        {
+          "icon": "users",
+          "title": "ACOs & s"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Denials Management with Integrated Data",
+      "description": "Integrated data is essential for a full view of your denials and is critical for the appeals process.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We integrate EHR data with billing systems, ensuring that clinical documentation is readily available for claim appeals."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We connect care coordination software with your billing system to ensure all services are captured and billed correctly."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We integrate RPM data into the patient record, supporting comprehensive care and accurate billing."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We create a seamless connection between your billing software and other systems to automate workflows."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Data Integration?",
+      "image": {
+        "alt": "A diverse team of IT and healthcare professionals working together",
+        "src": "https://images.unsplash.com/photo-1666214280557-f1b5022eb634?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "points": [
+        "Expertise in healthcare interoperability standards (HL7, FHIR)",
+        "Eliminate data silos for a single source of truth",
+        "Reduce manual data entry and administrative burden",
+        "Ensure data accuracy and consistency across systems",
+        "Scalable solutions to support your organization's growth",
+        "Fully HIPAA-compliant and secure data integration"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What are the key standards for healthcare data integration?",
+          "answer": "The most common standards are HL7 (Health Level 7) for clinical data and FHIR (Fast Healthcare Interoperability Resources) for modern, API-based integration."
+        },
+        {
+          "question": "How long does a typical integration project take?",
+          "answer": "The timeline varies based on the complexity and number of systems involved. We work efficiently to get your data flowing as quickly as possible."
+        },
+        {
+          "question": "Can you help with integrating legacy systems?",
+          "answer": "Yes, we have extensive experience in integrating both modern and legacy systems, using robust and secure methods."
+        },
+        {
+          "question": "What are the benefits of data integration?",
+          "answer": "Key benefits include improved data accuracy, better care coordination, streamlined revenue cycle, enhanced reporting and analytics, and significant time savings."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "robotic-process-automation-services",
+    "metadata": {
+      "pageTitle": "Robotic Process Automation (RPA) Services | SoftbeckMedicare ",
+      "metaDescription": "Automate repetitive administrative tasks with SoftbeckMedicare 's RPA services. Reduce costs, improve efficiency, and free up your staff for more valuable work."
+    },
+    "heroSection": {
+      "title": "Robotic Process Automation (RPA) Services",
+      "description": "Our Robotic Process Automation (RPA) services help you automate repetitive, rule-based tasks across your practice. We deploy intelligent software robots that can handle everything from data entry and appointment scheduling to claim status checks and eligibility verification. By automating these tasks, we free up your staff for more valuable work, reduce errors, and significantly improve operational efficiency.",
+      "ctaButton": {
+        "text": "Talk to an RPA Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "timer",
+          "label": "Time Saved",
+          "value": "70%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "200+ Clients"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Efficiency Gain",
+          "value": "4X"
+        },
+        {
+          "icon": "robot",
+          "label": "Bot Deployments",
+          "value": "1000+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "RPA Solutions for Healthcare Workflows",
+      "description": "We design and deploy RPA solutions tailored to your specific operational needs. Our robots can be programmed to perform a wide variety of tasks, such as registering patients, verifying insurance, posting payments, and running reports. We ensure that these automations are secure, compliant, and seamlessly integrated with your existing systems, providing an immediate return on investment.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Task Completed",
+          "subtitle": "Bot automation",
+          "icon": "robot"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Automated Efficiency",
+        "icon": "grid-dots"
+      },
+      "title": "Focus Care on High-Risk Patients",
+      "description": "By automating administrative tasks, you can free up your clinical and care coordination staff to focus on what matters most: your high-risk patients. Our RPA solutions handle the data entry, scheduling, and follow-up tasks, allowing your team to spend more time on direct patient engagement and care management.",
+      "image": {
+        "alt": "Illustration of a robot and a doctor working together",
+        "src": "https://images.pexels.com/photos/8438992/pexels-photo-8438992.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Automating Enrollment & Eligibility Checks",
+      "description": "Our RPA bots can be programmed to automate the entire patient enrollment and eligibility verification process. They can access payer portals, check coverage, and confirm benefits in real-time, updating your systems automatically. This reduces manual effort, speeds up the process, and virtually eliminates errors in patient data.",
+      "features": [
+        {
+          "title": "Data Extraction",
+          "description": "Automated from forms and documents",
+          "icon": "check"
+        },
+        {
+          "title": "Payer Portal Access",
+          "description": "Automated eligibility checks",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Infographic showing automated workflow for patient registration",
+        "src": "https://images.pexels.com/photos/6627851/pexels-photo-6627851.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Task Automated",
+          "subtitle": "Eligibility confirmed"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Reduce Denials with Automations",
+      "description": "RPA helps to prevent denials by automating tasks that are prone to human error. Bots can perform pre-bill claim scrubbing, verify the accuracy of patient data, and ensure all required documentation is attached before submission. By standardizing these processes and eliminating manual mistakes, you'll see a significant drop in denial rates.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Identify Task",
+            "icon": "search",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Define Rules",
+            "icon": "file-code",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Develop Bot",
+            "icon": "code",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Test & Deploy",
+            "icon": "rocket",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Bot Execution",
+            "icon": "bot",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Data Validation",
+            "icon": "check-circle",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "System Update",
+            "icon": "server",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Monitor & Optimize",
+            "icon": "monitor-chart",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "building",
+          "title": "Medical Practices & Clinics"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "flask",
+          "title": "Labs & Diagnostic Centers"
+        },
+        {
+          "icon": "users",
+          "title": "Billing Companies"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "RPA for Denials Management",
+      "description": "We can automate denial-related tasks like claim status checking and report generation.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "RPA can automate the extraction of clinical data from your EHR to support claim appeals and denials."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "Automate the tracking and reporting of care coordination activities to support CCM and RPM billing."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We can use RPA to manage and report on RPM data, improving billing efficiency."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "Automate the process of checking claim statuses, posting payments, and resubmitting corrected claims."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for RPA Services?",
+      "image": {
+        "alt": "A graphic representing automation in healthcare",
+        "src": "https://images.pexels.com/photos/8438967/pexels-photo-8438967.jpeg"
+      },
+      "points": [
+        "Expertise in healthcare-specific RPA implementations",
+        "Automate repetitive tasks to free up your staff",
+        "Reduce human error and improve data accuracy",
+        "Significant operational efficiency gains",
+        "Secure and compliant process automation",
+        "Fast ROI with quick deployment of RPA bots"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is Robotic Process Automation (RPA)?",
+          "answer": "RPA is a technology that uses software robots (bots) to automate highly repetitive, rule-based tasks that are typically performed by humans."
+        },
+        {
+          "question": "What healthcare tasks can be automated with RPA?",
+          "answer": "RPA can automate tasks like patient registration, insurance verification, claim status checks, data entry, and payment posting."
+        },
+        {
+          "question": "Is RPA secure and HIPAA-compliant?",
+          "answer": "Yes, when implemented correctly, RPA is secure. We deploy bots in a highly controlled environment to ensure all data is handled securely and is fully HIPAA-compliant."
+        },
+        {
+          "question": "Do you work with my existing systems?",
+          "answer": "Yes, a key benefit of RPA is that it sits on top of your existing systems and automates processes without the need for major system overhauls."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "qms-and-lean-six-sigma-solutions",
+    "metadata": {
+      "pageTitle": "QMS and Lean Six Sigma Solutions | SoftbeckMedicare ",
+      "metaDescription": "Optimize your healthcare operations with SoftbeckMedicare 's QMS and Lean Six Sigma solutions. We reduce waste, improve quality, and drive efficiency."
+    },
+    "heroSection": {
+      "title": "QMS and Lean Six Sigma Solutions",
+      "description": "Our QMS (Quality Management System) and Lean Six Sigma solutions are designed to help you achieve operational excellence. We apply proven process improvement methodologies to reduce waste, eliminate inefficiencies, and improve quality in your revenue cycle, clinical workflows, and administrative functions. Our goal is to drive sustainable improvements that enhance your financial performance and patient satisfaction.",
+      "ctaButton": {
+        "text": "Talk to a Process Improvement Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "chart-pie",
+          "label": "Waste Reduced",
+          "value": "40%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Trusted by",
+          "value": "100+ Organizations"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Efficiency Gain",
+          "value": "35%"
+        },
+        {
+          "icon": "pill",
+          "label": "Projects Completed",
+          "value": "500+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Process Improvement & QMS Solutions",
+      "description": "We implement robust quality management systems and Lean Six Sigma methodologies to streamline your operations. Our experts conduct in-depth process analysis, identify bottlenecks, and design data-driven solutions. Whether it's reducing denials, improving patient flow, or standardizing clinical documentation, we help you build a culture of continuous improvement.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "Process Optimized",
+          "subtitle": "Waste identified",
+          "icon": "chart-pie"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Quality Focused",
+        "icon": "grid-dots"
+      },
+      "title": "Optimizing Care for High-Risk Patients",
+      "description": "Applying Lean Six Sigma to care coordination for high-risk patients can significantly improve outcomes. We help you streamline the care management process, reduce delays in care, and eliminate waste in administrative tasks. This ensures your high-risk patients receive timely, efficient, and high-quality care.",
+      "image": {
+        "alt": "A team of doctors and administrators in a process improvement meeting",
+        "src": "https://images.pexels.com/photos/6129147/pexels-photo-6129147.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Streamlining Enrollment with Process Improvement",
+      "description": "We use process improvement methodologies to optimize your patient enrollment and eligibility verification workflows. By mapping the current process, we identify bottlenecks and implement solutions that reduce manual steps, improve accuracy, and speed up patient access to services.",
+      "features": [
+        {
+          "title": "Process Mapping",
+          "description": "Visual analysis of current workflow",
+          "icon": "check"
+        },
+        {
+          "title": "Root-Cause Analysis",
+          "description": "Identify inefficiencies and errors",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "A flowchart depicting an improved enrollment process",
+        "src": "https://images.pexels.com/photos/5998440/pexels-photo-5998440.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Workflow Optimized",
+          "subtitle": "Efficiency improved"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "Applying Lean Six Sigma to Reduce Denials",
+      "description": "Denials are a major source of revenue waste. We apply DMAIC (Define, Measure, Analyze, Improve, Control) to your billing processes to identify the root causes of denials. By fixing these underlying issues, we help you prevent denials, improve clean-claim rates, and achieve sustainable revenue cycle health.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Define",
+            "icon": "target",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Measure",
+            "icon": "chart-scatter",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Analyze",
+            "icon": "magnifying-glass",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Improve",
+            "icon": "arrow-up",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Control",
+            "icon": "settings",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Implementation",
+            "icon": "gear",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Monitoring",
+            "icon": "monitor-chart",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Sustain Improvement",
+            "icon": "handshake",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "building",
+          "title": "Medical Practices & Groups"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "users",
+          "title": "ACOs & s"
+        },
+        {
+          "icon": "flask",
+          "title": "Labs & Diagnostic Centers"
+        },
+        {
+          "icon": "scan",
+          "title": "Imaging Centers"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "Process Improvement for Denials Management",
+      "description": "We use process improvement to optimize your denials management strategy and reduce their occurrence.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We analyze your clinical documentation process to identify and fix issues that lead to denials."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "We optimize the use of care coordination software to ensure all services are documented and billed correctly."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We improve the billing workflow for RPM services to reduce denials and maximize reimbursement."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "We use a data-driven approach to identify and improve areas in the billing software that are causing inefficiencies or errors."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for QMS and Lean Six Sigma?",
+      "image": {
+        "alt": "Graphic showing continuous improvement cycle in healthcare",
+        "src": "https://images.pexels.com/photos/8539151/pexels-photo-8539151.jpeg"
+      },
+      "points": [
+        "Proven process improvement methodologies (Lean Six Sigma)",
+        "Reduce waste and improve operational efficiency",
+        "Data-driven solutions for tangible results",
+        "Improve financial and clinical outcomes",
+        "Build a sustainable culture of quality improvement",
+        "Expert consultants with deep healthcare industry experience"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is Lean Six Sigma?",
+          "answer": "Lean Six Sigma is a methodology that combines Lean (eliminating waste) and Six Sigma (reducing variation) to improve processes, eliminate defects, and increase efficiency."
+        },
+        {
+          "question": "How can QMS help my practice?",
+          "answer": "A Quality Management System (QMS) provides a structured framework for managing and improving your processes, leading to better compliance, higher quality, and greater operational efficiency."
+        },
+        {
+          "question": "What is the DMAIC process?",
+          "answer": "DMAIC stands for Define, Measure, Analyze, Improve, and Control. It is a core data-driven improvement cycle in Lean Six Sigma."
+        },
+        {
+          "question": "How long does a process improvement project take?",
+          "answer": "The timeline depends on the scope of the project. We work efficiently to deliver rapid improvements and sustainable results."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  },
+  {
+    "slug": "chronic-care-management",
+    "metadata": {
+      "pageTitle": "Chronic Care Management (CCM) Services | SoftbeckMedicare ",
+      "metaDescription": "Implement a successful Chronic Care Management program with SoftbeckMedicare . We handle enrollment, billing, and care coordination for your CCM patients."
+    },
+    "heroSection": {
+      "title": "Chronic Care Management (CCM) Services",
+      "description": "Our Chronic Care Management (CCM) solutions help you provide comprehensive care for patients with multiple chronic conditions. We manage the entire CCM program, from patient enrollment and consent to care plan development and monthly billing. Our turnkey solution allows you to improve patient outcomes, generate a significant, recurring revenue stream, and reduce the burden on your clinical staff.",
+      "ctaButton": {
+        "text": "Talk to a CCM Expert",
+        "href": "#talk-to-expert"
+      },
+      "sidebarActions": [
+        { "type": "chat", "icon": "message-square" },
+        { "type": "phone", "icon": "phone" },
+        { "type": "email", "icon": "mail" }
+      ]
+    },
+    "successMetrics": {
+      "title": "Our Success in Numbers",
+      "metrics": [
+        {
+          "icon": "hand-holding-dollar",
+          "label": "Revenue Increase",
+          "value": "$250K+ Per Year"
+        },
+        {
+          "icon": "users",
+          "label": "Trusted by",
+          "value": "500+ Providers"
+        },
+        {
+          "icon": "trending-up-chart",
+          "label": "Patient Retention",
+          "value": "92%"
+        },
+        {
+          "icon": "stethoscope",
+          "label": "Enrolled Patients",
+          "value": "10000+"
+        }
+      ]
+    },
+    "solutionsAndDocumentation": {
+      "title": "Comprehensive CCM Solutions & Documentation",
+      "description": "We provide a complete CCM program, including patient enrollment, personalized care plans, monthly check-ins, medication management, and care coordination. Our team ensures strict compliance with all CMS requirements, including thorough documentation of the required 20+ minutes of clinical staff time and the patient's consent. We manage the monthly billing cycle for CCM, ensuring accurate reimbursement.",
+      "visualElements": {
+        "tabs": [
+          "HEALUS EHR",
+          "AI MEDICAL BILLING SOFTWARE",
+          "AI SCRIBE",
+          "AI MEDICAL CODING",
+          "AI RULE ENGINE"
+        ],
+        "overlayCard": {
+          "title": "CCM Patient Active",
+          "subtitle": "Care plan updated",
+          "icon": "users"
+        },
+        "backgroundGraphicText": {
+          "heading": "Healus EHR",
+          "paragraph": "Healus is SoftbeckMedicare 's EHR. Clinical charting with a built-in AI Scribe, scheduling, labs, e-prescribing, decision support, interoperability, a full patient portal, and integrated billing - every workflow in a single system.",
+          "cta": "Discover our Software"
+        }
+      }
+    },
+    "highRiskPatients": {
+      "badge": {
+        "text": "Proactive Care",
+        "icon": "grid-dots"
+      },
+      "title": "Proactive CCM for High-Risk Chronic Patients",
+      "description": "CCM is crucial for managing high-risk patients with multiple chronic conditions. Our program provides regular monitoring, care coordination, and proactive interventions to prevent complications and reduce hospitalizations. By keeping these patients engaged in their care, we help you improve their health and reduce overall costs.",
+      "image": {
+        "alt": "Nurse speaking with a patient on the phone",
+        "src": "https://images.pexels.com/photos/5214952/pexels-photo-5214952.jpeg"
+      }
+    },
+    "enrollmentAndEligibility": {
+      "title": "Expert CCM Enrollment & Eligibility Verification",
+      "description": "We manage the entire CCM enrollment process, starting with identifying eligible patients. We verify Medicare and other insurance eligibility, obtain patient consent, and document all required information. This ensures a smooth start to your CCM program and reduces the risk of billing issues.",
+      "features": [
+        {
+          "title": "Patient Identification",
+          "description": "Targeting patients with 2+ chronic conditions",
+          "icon": "check"
+        },
+        {
+          "title": "Consent Management",
+          "description": "Obtaining and documenting written or verbal consent",
+          "icon": "check"
+        }
+      ],
+      "image": {
+        "alt": "Medical staff member with a digital tablet",
+        "src": "https://images.pexels.com/photos/5206922/pexels-photo-5206922.jpeg"
+      },
+      "floatingBadges": [
+        {
+          "icon": "check-circle",
+          "title": "Patient Enrolled",
+          "subtitle": "Consent on file"
+        },
+        {
+          "icon": "user-check"
+        }
+      ]
+    },
+    "denialPrevention": {
+      "title": "CCM Billing & Denial Prevention",
+      "description": "Our CCM billing experts ensure that every claim is clean and compliant. We use AI to validate time logs, documentation, and CPT code selection for CCM (99490, 99439, 99487, 99489). We proactively address issues that could lead to denials, ensuring you receive consistent monthly reimbursement for your CCM patients.",
+      "workflowDiagram": {
+        "layout": "circular_8_step",
+        "steps": [
+          {
+            "id": 1,
+            "title": "Patient Eligibility",
+            "icon": "user-search",
+            "color": "sky-blue"
+          },
+          {
+            "id": 2,
+            "title": "Patient Consent",
+            "icon": "file-check",
+            "color": "lime-green"
+          },
+          {
+            "id": 3,
+            "title": "Comprehensive Care Plan",
+            "icon": "file-medical",
+            "color": "sky-blue"
+          },
+          {
+            "id": 4,
+            "title": "Monthly Check-in",
+            "icon": "phone",
+            "color": "lime-green"
+          },
+          {
+            "id": 5,
+            "title": "Time Tracking",
+            "icon": "clock",
+            "color": "sky-blue"
+          },
+          {
+            "id": 6,
+            "title": "Clinical Documentation",
+            "icon": "file-pen",
+            "color": "lime-green"
+          },
+          {
+            "id": 7,
+            "title": "Claim Submission",
+            "icon": "send",
+            "color": "sky-blue"
+          },
+          {
+            "id": 8,
+            "title": "Payment Posting",
+            "icon": "landmark",
+            "color": "lime-green"
+          }
+        ]
+      }
+    },
+    "whoWeServe": {
+      "title": "Who We Serve",
+      "cards": [
+        {
+          "icon": "stethoscope",
+          "title": "Primary Care Practices"
+        },
+        {
+          "icon": "heart",
+          "title": "Cardiology & Endocrinology Practices"
+        },
+        {
+          "icon": "hospital",
+          "title": "Hospitals & Health Systems"
+        },
+        {
+          "icon": "building",
+          "title": "ACOs & s"
+        },
+        {
+          "icon": "user-md",
+          "title": "Independent Physicians"
+        }
+      ]
+    },
+    "denialsManagementServices": {
+      "title": "CCM Denials Management",
+      "description": "We resolve denials specific to CCM services, such as time tracking or consent issues.",
+      "cards": [
+        {
+          "icon": "folder-medical",
+          "title": "EHR/EMR Systems Expertise",
+          "description": "We ensure that clinical documentation in your EHR supports CCM billing and can be used for claim appeals."
+        },
+        {
+          "icon": "user-pulse",
+          "title": "Care Coordination Software",
+          "description": "Our CCM program is built on robust care coordination tools that track all services and time."
+        },
+        {
+          "icon": "monitor-clock",
+          "title": "RPM Platforms Management",
+          "description": "We integrate RPM with CCM to provide comprehensive care and support billing for both services."
+        },
+        {
+          "icon": "receipt-dollar",
+          "title": "Billing & Coding Software",
+          "description": "Our billing software automates CCM code selection to ensure accuracy and compliance with CMS guidelines."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose SoftbeckMedicare  for Chronic Care Management?",
+      "image": {
+        "alt": "Care team planning for a chronic care patient",
+        "src": "/images/why-choose-ccm.jpg"
+      },
+      "points": [
+        "Complete, turnkey CCM program management",
+        "Expert in CMS CCM coding and billing (CPT 99490, 99439, 99487, 99489)",
+        "Increase practice revenue by $250K+ annually",
+        "Improve patient outcomes and reduce hospitalizations",
+        "Proactive patient engagement and care coordination",
+        "All administrative work handled by our trained staff"
+      ]
+    },
+    "faqsSection": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What are the CCM CPT codes?",
+          "answer": "The primary CCM codes are 99490 (initial 20 minutes), 99439 (each additional 20 minutes), and 99487/99489 for complex CCM."
+        },
+        {
+          "question": "How often can CCM be billed?",
+          "answer": "CCM services are billed once per calendar month per eligible patient, provided all cumulative monthly time requirements are met."
+        },
+        {
+          "question": "How much time is required for CCM billing?",
+          "answer": "CPT 99490 requires at least 20 minutes of clinical staff time per month. CPT 99439 requires an additional 20 minutes."
+        },
+        {
+          "question": "Can CCM and RPM be billed together?",
+          "answer": "Yes, both services can be billed in the same month, as long as the time and documentation requirements are met for each separately."
+        }
+      ]
+    },
+    "globalStickyWidgets": {
+      "chatButton": {
+        "label": "Chat With Us!",
+        "icon": "message-circle"
+      }
+    }
+  }
+]

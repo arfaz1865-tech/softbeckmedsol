@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "title": "How ODAT Services Grew From $65K to $140K in Collections With SoftbeckMedicare ",
+    "isFeatured": true,
+    "metrics": [
+      { "value": "$ 80 K", "label": "Revenue Recovery" },
+      { "value": "$ 140 k", "label": "Monthly Collections" }
+    ],
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+    "summary": "Here's how ODAT Services recovered $80K in revenue and got their monthly collections to $140K monthly.",
+    "client": "ODAT Services",
+    "industry": "Multispecialty Clinic",
+    "content": {
+      "challenge": "ODAT Services faced significant revenue leakage due to uncollected accounts receivable and outdated billing practices.",
+      "solution": "SoftbeckMedicare  restructured their AR workflow, re-submitted aged claims, and implemented automated prior authorizations.",
+      "results": "Monthly collections increased from $65K to $140K within six months, recovering $80K in previously written-off revenue."
+    }
+  },
+  {
+    "id": "2",
+    "title": "How We Helped DT Nephrology Achieve $28,000 in Monthly...",
+    "isFeatured": false,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=450&fit=crop",
+    "summary": "See how DT Nephrology achieve $28,000 in monthly collections after partnering with SoftbeckMedicare .",
+    "client": "DT Nephrology",
+    "industry": "Nephrology Practice",
+    "content": {
+      "challenge": "High claim rejection rates related to complex dialysis coding guidelines.",
+      "solution": "Deployed specialized nephrology coders and audited all incoming claim batches.",
+      "results": "Achieved a consistent $28,000 monthly collection baseline with a 98% clean claim rate."
+    }
+  },
+  {
+    "id": "3",
+    "title": "How We Took EHP LLC's Home Health Billing from $5K to $50K...",
+    "isFeatured": false,
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=450&fit=crop",
+    "summary": "See how SoftbeckMedicare  took EHP LLC's Collection Ratio to 95% from 45%.",
+    "client": "EHP LLC",
+    "industry": "Home Health Care",
+    "content": {
+      "challenge": "Collection ratio stalled at 45% due to delayed authorization logging and missing physician sign-offs.",
+      "solution": "Established automated compliance tracking and streamlined electronic claim filing.",
+      "results": "Collection ratio surged from 45% to 95%, boosting monthly revenue from $5K to $50K."
+    }
+  }
+]

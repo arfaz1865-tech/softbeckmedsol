@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Top 10 AI Medical Coding Software for 2026",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+    "category": "AI Software",
+    "summary": "Best AI medical coding software in 2026, helping providers automate billing and reduce errors.",
+    "content": {
+      "overview": "Comparing the leading artificial intelligence platforms designed to automate CPT and ICD-10 coding workflows.",
+      "criteria": ["Clean Claim Accuracy", "EHR System Integration", "E/M Leveling Support", "Pricing Model"],
+      "topPicks": [
+        "MedCode AI - Best for high-volume health systems",
+        "AutoCoder Pro - Best for specialty clinics",
+        "DeepClaim - Best for denial prevention"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "title": "8 Best AI Medical Scribe",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=450&fit=crop",
+    "category": "Clinical Tools",
+    "summary": "Best AI Medical Scribe Tools in 2026, Helping Doctors Reduce Charting Time and Automate Notes.",
+    "content": {
+      "overview": "An in-depth side-by-side evaluation of ambient listening scribes transforming ambient dictation into structured clinical documentation.",
+      "criteria": ["Real-time Latency", "HIPAA Compliance", "Specialty Vocabularies", "EHR Auto-sync"],
+      "topPicks": [
+        "ScribeFlow AI - Best overall EHR integration",
+        "AmbientDoc - Best for primary care",
+        "VoiceMD - Best multi-language ambient scribe"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "title": "Top 10 Practice Management Software for Healthcare 2026",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&h=450&fit=crop",
+    "category": "Practice Management",
+    "summary": "Top Practice Management Software in the USA delivering automation-driven revenue growth and smarter denial reduction strategies.",
+    "content": {
+      "overview": "A comparative breakdown of top medical practice management software for scheduling, billing, and patient engagement.",
+      "criteria": ["Patient Scheduling Workflow", "Integrated Billing Suite", "Analytics & Reporting", "Cloud Security"],
+      "topPicks": [
+        "HealthCare360 - Best all-in-one suite",
+        "MedPractice Cloud - Best for independent practices",
+        "CareSuite - Best for multi-location groups"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "title": "Top 10 Physicians Billing Companies in USA 2026",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
+    "category": "Billing Companies",
+    "summary": "Leading physician billing companies in the USA delivering optimized revenue cycle management, accurate coding, and faster claims reimbursement.",
+    "content": {
+      "overview": "Unbiased comparison of major outsourced billing partners serving physician practices across the US.",
+      "criteria": ["Average A/R Days", "First-Pass Claim Rate", "Percentage-based Fee Rates", "Dedicated Account Teams"],
+      "topPicks": [
+        "SoftbeckMedicare  - Best for overall SoftbeckMedicare performance",
+        "Physician Billing Alliance - Best for small groups",
+        "Apex Revenue - Best for surgical specialties"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "title": "Top 10 Laboratory Billing Companies",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&h=450&fit=crop",
+    "category": "Specialty Billing",
+    "summary": "Operating a lab today is dealing with complicated payer regulations, volume of claims, and impeccable coding regulations.",
+    "content": {
+      "overview": "Analyzing clinical diagnostic and pathology billing services built for high-volume claim environments.",
+      "criteria": ["CLIA Certification Compliance", "LIS System Integration", "High-Volume Automation", "Toxicology Coding Expertise"],
+      "topPicks": [
+        "LabSoftbeckMedicare Solutions - Best for molecular diagnostics",
+        "Pathology Billing Pros - Best for pathology groups",
+        "BioClaim Partners - Best for reference labs"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "title": "Top 10 Ob Gyn Billing Companies in USA 2026",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=450&fit=crop",
+    "category": "Specialty Billing",
+    "summary": "Top Ob Gyn billing companies in the USA delivering specialty-driven revenue growth and denial reduction strategies.",
+    "content": {
+      "overview": "Evaluating billing services specializing in obstetrics global care packages, gynecology procedures, and ultrasound coding.",
+      "criteria": ["Global Antepartum/Postpartum Bundling", "Sonogram Coding Accuracy", "Prior Authorization Support", "Denial Resolution Rate"],
+      "topPicks": [
+        "ObGyn Revenue Experts - Best dedicated OB billing",
+        "Women's Health SoftbeckMedicare - Best for multi-provider clinics",
+        "FemCare Billing - Best for solo practitioners"
+      ]
+    }
+  }
+]

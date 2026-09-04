@@ -1,0 +1,258 @@
+[
+  {
+    "id": "in-house-vs-outsourced-asc-billing",
+    "title": "In-House vs Outsourced ASC Billing: ROI Comparison for Surgery Centers",
+    "category": "Medical Billing",
+    "date": "August 14, 2026",
+    "image": "https://images.pexels.com/photos/20217786/pexels-photo-20217786.jpeg",
+    "summary": "Comparing the financial return on investment between managing ambulatory surgery center billing internally versus partnering with a specialized .",
+    "content": {
+      "introduction": "Managing revenue cycle management (SoftbeckMedicare) for Ambulatory Surgery Centers (ASCs) requires navigating complex billing regulations, payer contracts, and specialty-specific coding rules.",
+      "sections": [
+        {
+          "heading": "In-House Billing Challenges",
+          "body": "In-house teams face constant friction from staff turnover, ongoing training costs, and high overhead expenses. Software licenses and clearinghouse fees add direct monthly overhead."
+        },
+        {
+          "heading": "The Outsourced Advantage",
+          "body": "Outsourcing ASC billing to dedicated revenue cycle specialists significantly reduces denial rates and speeds up reimbursement timelines through specialized certified coders."
+        }
+      ],
+      "conclusion": "Most ASCs see an immediate 10-15% increase in clean claim submission rates within 90 days of transitioning to an outsourced SoftbeckMedicare partner."
+    }
+  },
+  {
+    "id": "cpt-code-45378-diagnostic-colonoscopy",
+    "title": "CPT Code 45378: Diagnostic Colonoscopy Billing and Coding Explained (2026)",
+    "category": "CPT Codes",
+    "date": "August 10, 2026",
+    "image": "https://images.pexels.com/photos/4225880/pexels-photo-4225880.jpeg",
+    "summary": "A comprehensive guide to billing diagnostic colonoscopy procedures using CPT 45378 with proper modifiers and documentation guidelines.",
+    "content": {
+      "introduction": "CPT code 45378 is used to report a diagnostic colonoscopy, flexible, with or without collection of specimen(s) by brushing or washing, when performed without additional interventions.",
+      "sections": [
+        {
+          "heading": "Key Coding Guidelines",
+          "body": "Ensure the medical record clearly documents the reason for the procedure (e.g., GI bleeding, abnormal imaging, or surveillance). If a polyp or lesion is excised, appropriate operative codes must be selected instead."
+        },
+        {
+          "heading": "Modifier Applications",
+          "body": "Common modifiers used include Modifier 33 for preventive services or Modifier 53 if the procedure is discontinued due to inadequate bowel preparation."
+        }
+      ],
+      "conclusion": "Accurate modifier selection and pre-authorization verification remain the key steps to preventing claim rejections for CPT 45378."
+    }
+  },
+  {
+    "id": "cpt-code-29827-arthroscopic-rotator-cuff",
+    "title": "CPT Code 29827: Arthroscopic Rotator Cuff Repair Billing Explained",
+    "category": "CPT Codes",
+    "date": "August 05, 2026",
+    "image": "https://images.pexels.com/photos/3376790/pexels-photo-3376790.jpeg",
+    "summary": "Step-by-step coding and billing instructions for arthroscopic rotator cuff repairs and associated bundled procedures.",
+    "content": {
+      "introduction": "CPT code 29827 covers surgical arthroscopy of the shoulder with rotator cuff repair.",
+      "sections": [
+        {
+          "heading": "CCI Edit Bundling Rules",
+          "body": "Be mindful of NCCI edits when coding subacromial decompression (29826) or distal clavicle resection (29824) alongside CPT 29827."
+        }
+      ],
+      "conclusion": "Detailed operative reports that specify the exact tendons repaired ensure maximum compliant reimbursement."
+    }
+  },
+  {
+    "id": "common-hospice-codes-level-of-care",
+    "title": "Common Hospice Codes for Every Level of Care",
+    "category": "ICD-10 Codes",
+    "date": "July 28, 2026",
+    "image": "https://images.pexels.com/photos/7551659/pexels-photo-7551659.jpeg",
+    "summary": "Understanding revenue codes and ICD-10 diagnosis requirements across routine, continuous, inpatient, and respite hospice care.",
+    "content": {
+      "introduction": "Hospice billing requires precise reporting across four distinct levels of care recognized by CMS.",
+      "sections": [
+        {
+          "heading": "Four Levels of Hospice Care",
+          "body": "Routine Home Care (RHC), Continuous Home Care (CHC), Inpatient Respite Care (IRC), and General Inpatient Care (GIP) each require distinct revenue codes."
+        }
+      ],
+      "conclusion": "Maintaining compliance with local coverage determinations (LCDs) prevents post-payment audits."
+    }
+  },
+  {
+    "id": "ai-powered-medical-coding-automation",
+    "title": "How AI is Transforming Medical Coding Accuracy and Speed in 2026",
+    "category": "AI",
+    "date": "August 20, 2026",
+    "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+    "summary": "Exploring the latest AI tools that reduce coding errors, accelerate claim submission, and improve overall revenue cycle performance.",
+    "content": {
+      "introduction": "Artificial intelligence is rapidly changing how medical coding teams operate by automating repetitive tasks and flagging potential compliance issues in real time.",
+      "sections": [
+        {
+          "heading": "AI for Code Suggestion and Validation",
+          "body": "Modern AI engines analyze clinical documentation and suggest the most appropriate CPT, HCPCS, and ICD-10 codes while cross-checking against NCCI edits and payer-specific rules."
+        },
+        {
+          "heading": "Reducing Human Error and Denial Rates",
+          "body": "Practices using AI-assisted coding report 20–35% fewer denials related to incorrect or incomplete coding, freeing certified coders to focus on complex cases."
+        }
+      ],
+      "conclusion": "When combined with human oversight, AI delivers faster turnaround times and higher clean claim rates without sacrificing compliance."
+    }
+  },
+  {
+    "id": "ar-recovery-strategies-aging-accounts",
+    "title": "Proven AR Recovery Strategies for Aging Accounts Receivable in 2026",
+    "category": "AR Recovery",
+    "date": "August 18, 2026",
+    "image": "https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg",
+    "summary": "Actionable tactics to recover aged receivables, reduce days in AR, and improve cash flow for medical practices and ASCs.",
+    "content": {
+      "introduction": "Accounts receivable that age beyond 90–120 days become significantly harder to collect and can severely impact practice cash flow.",
+      "sections": [
+        {
+          "heading": "Prioritizing High-Value Claims",
+          "body": "Segment aging reports by payer, balance, and denial reason so recovery efforts focus first on the highest-dollar opportunities."
+        },
+        {
+          "heading": "Effective Follow-Up and Appeal Workflows",
+          "body": "Structured follow-up cadence combined with strong appeal letter templates and secondary insurance billing can recover a substantial portion of aged balances."
+        }
+      ],
+      "conclusion": "Consistent AR recovery processes typically reduce days in A/R by 15–25 days within the first six months."
+    }
+  },
+  {
+    "id": "ehr-emr-integration-with-billing-systems",
+    "title": "Best Practices for EHR/EMR Integration with Medical Billing Systems",
+    "category": "EHR/EMR",
+    "date": "August 12, 2026",
+    "image": "https://images.pexels.com/photos/7089401/pexels-photo-7089401.jpeg",
+    "summary": "How seamless EHR-to-billing integration reduces documentation gaps, improves coding accuracy, and shortens the revenue cycle.",
+    "content": {
+      "introduction": "Disconnected EHR and billing systems create documentation gaps that lead to undercoding, missing charges, and higher denial rates.",
+      "sections": [
+        {
+          "heading": "Real-Time Charge Capture",
+          "body": "Integrated systems automatically push encounter data, procedures, and diagnoses into the billing workflow, minimizing manual entry errors."
+        },
+        {
+          "heading": "Clinical Documentation Improvement (CDI)",
+          "body": "Tight integration enables CDI specialists and coders to query providers faster, resulting in more complete and specific documentation."
+        }
+      ],
+      "conclusion": "Practices with strong EHR/EMR–billing integration consistently report higher clean claim rates and fewer late charges."
+    }
+  },
+  {
+    "id": "icd-10-cm-updates-2026-key-changes",
+    "title": "ICD-10-CM 2026 Updates: Key Changes Every Coder Must Know",
+    "category": "ICD-10 Codes",
+    "date": "August 08, 2026",
+    "image": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg",
+    "summary": "A practical overview of the most important new, revised, and deleted ICD-10-CM codes effective October 1, 2026.",
+    "content": {
+      "introduction": "Each year CMS and the CDC release updates to ICD-10-CM that impact medical necessity, reimbursement, and quality reporting.",
+      "sections": [
+        {
+          "heading": "New and Expanded Codes",
+          "body": "Significant expansions appear in chapters related to social determinants of health, behavioral health, and certain chronic conditions."
+        },
+        {
+          "heading": "Deleted and Revised Codes",
+          "body": "Coders must update templates and education materials promptly to avoid using invalid codes after the implementation date."
+        }
+      ],
+      "conclusion": "Early preparation and staff training on the 2026 ICD-10-CM changes prevent claim rejections and compliance risk."
+    }
+  },
+  {
+    "id": "medical-billing-denial-management-best-practices",
+    "title": "Medical Billing Denial Management: From Prevention to Successful Appeals",
+    "category": "Medical Billing",
+    "date": "August 02, 2026",
+    "image": "https://images.pexels.com/photos/6863183/pexels-photo-6863183.jpeg",
+    "summary": "A complete framework for reducing claim denials and maximizing recovery through root-cause analysis and structured appeals.",
+    "content": {
+      "introduction": "Claim denials remain one of the largest drains on practice revenue, yet many are preventable with the right processes.",
+      "sections": [
+        {
+          "heading": "Root-Cause Analysis of Denials",
+          "body": "Categorize denials by reason code (eligibility, coding, authorization, medical necessity, etc.) to identify systemic issues."
+        },
+        {
+          "heading": "Building an Effective Appeals Process",
+          "body": "Timely, well-documented appeals supported by clinical notes and payer policy citations significantly improve overturn rates."
+        }
+      ],
+      "conclusion": "Practices that treat denial management as a continuous improvement process typically recover 60–80% of appealable denials."
+    }
+  },
+  {
+    "id": "pms-practice-management-system-selection",
+    "title": "How to Choose the Right Practice Management System (PMS) in 2026",
+    "category": "PMS",
+    "date": "July 30, 2026",
+    "image": "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg",
+    "summary": "Key features, integration requirements, and evaluation criteria for selecting a modern practice management system.",
+    "content": {
+      "introduction": "A robust Practice Management System is the operational backbone of any medical practice, directly affecting scheduling, billing, and patient experience.",
+      "sections": [
+        {
+          "heading": "Must-Have PMS Features",
+          "body": "Look for strong scheduling tools, real-time eligibility verification, automated claim scrubbing, patient portal capabilities, and detailed reporting."
+        },
+        {
+          "heading": "Integration and Scalability",
+          "body": "The ideal PMS integrates seamlessly with your EHR, clearinghouse, and payment processors while scaling with practice growth."
+        }
+      ],
+      "conclusion": "Investing time in a structured PMS evaluation process pays off through improved efficiency, lower denial rates, and better cash flow."
+    }
+  },
+  {
+    "id": "cpt-code-99213-99214-e-m-coding",
+    "title": "CPT Codes 99213 vs 99214: Accurate E/M Coding for Established Patients",
+    "category": "CPT Codes",
+    "date": "July 25, 2026",
+    "image": "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg",
+    "summary": "Clear guidance on differentiating level 3 and level 4 established patient office visits under current E/M guidelines.",
+    "content": {
+      "introduction": "Proper selection between CPT 99213 and 99214 remains one of the most common audit targets for physician practices.",
+      "sections": [
+        {
+          "heading": "Medical Decision Making Criteria",
+          "body": "Focus on the number and complexity of problems addressed, data reviewed, and risk of complications or morbidity."
+        },
+        {
+          "heading": "Documentation Pitfalls",
+          "body": "Over-documenting time or under-documenting complexity frequently leads to downcoding or audit risk."
+        }
+      ],
+      "conclusion": "Consistent application of the 2021+ E/M guidelines protects revenue while reducing compliance exposure."
+    }
+  },
+  {
+    "id": "ai-driven-prior-authorization",
+    "title": "AI-Driven Prior Authorization: Reducing Delays and Administrative Burden",
+    "category": "AI",
+    "date": "July 22, 2026",
+    "image": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg",
+    "summary": "How artificial intelligence is streamlining prior authorization workflows and improving approval rates for high-cost procedures.",
+    "content": {
+      "introduction": "Prior authorization continues to be a major source of administrative burden and delayed care for patients and providers.",
+      "sections": [
+        {
+          "heading": "Automated Eligibility and Policy Matching",
+          "body": "AI tools can instantly check payer policies, required documentation, and clinical criteria against the planned procedure."
+        },
+        {
+          "heading": "Predictive Approval Insights",
+          "body": "Advanced models predict likelihood of approval and highlight missing clinical elements before submission."
+        }
+      ],
+      "conclusion": "Practices adopting AI-assisted prior authorization report faster turnaround times and fewer peer-to-peer reviews."
+    }
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "title": "The 2027 FHIR Mandate and the End of Manual Prior Authorization",
+    "category": "Interoperability",
+    "date": "Sep 01, 2026",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+    "summary": "CMS-0057-F sets January 1, 2027 as the deadline for payer FHIR APIs, with turnaround standards already in effect...",
+    "content": {
+      "introduction": "The CMS-0057-F rule marks a massive shift toward real-time interoperability and automated prior authorization workflows.",
+      "sections": [
+        {
+          "heading": "API Mandates & Implementation Timelines",
+          "body": "Payers must expose FHIR-based APIs for Patient Access, Provider Access, and Prior Authorization by 2027."
+        }
+      ],
+      "conclusion": "Healthcare practices must upgrade their EHR integrations now to prevent care delivery delays."
+    }
+  },
+  {
+    "id": "2",
+    "title": "The State of Compliance in Autonomous Medical Billing",
+    "category": "Compliance",
+    "date": "Aug 18, 2026",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
+    "summary": "How autonomous AI coding turns one flawed billing rule into thousands of separately penalized False Claims Act...",
+    "content": {
+      "introduction": "Autonomous coding systems improve efficiency, but compliance oversight remains paramount under federal guidelines.",
+      "sections": [
+        {
+          "heading": "Mitigating AI Algorithmic Risk",
+          "body": "Continuous auditing routines and human-in-the-loop validation safeguard practices against systemic claim errors."
+        }
+      ],
+      "conclusion": "Combine AI efficiency with strict human oversight for maximum revenue compliance."
+    }
+  },
+  {
+    "id": "3",
+    "title": "Live Webinar: Mastering 2026 ICD-10-CM Updates for Cleaner Claims",
+    "category": "ICD-10 Codes",
+    "date": "Sep 15, 2026",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&h=450&fit=crop",
+    "summary": "Join our coding experts for a deep dive into the latest ICD-10-CM changes, documentation tips, and strategies to avoid claim denials.",
+    "content": {
+      "introduction": "Stay ahead of the October 1, 2026 ICD-10-CM updates with practical guidance from certified coding professionals.",
+      "sections": [
+        {
+          "heading": "Key Code Additions & Revisions",
+          "body": "Review the most impactful new, revised, and deleted codes affecting primary care, specialty practices, and ASCs."
+        },
+        {
+          "heading": "Documentation Best Practices",
+          "body": "Learn how to capture the clinical details needed to support the new codes and reduce medical necessity denials."
+        }
+      ],
+      "conclusion": "Attendees will leave with actionable checklists and coding tip sheets ready for immediate use."
+    }
+  },
+  {
+    "id": "4",
+    "title": "Webinar: AI-Powered Prior Authorization – From Manual Chaos to Real-Time Approvals",
+    "category": "AI",
+    "date": "Sep 22, 2026",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+    "summary": "Discover how AI and FHIR-based automation are transforming prior authorization workflows and reducing administrative burden.",
+    "content": {
+      "introduction": "Prior authorization remains one of the top sources of delayed care and staff burnout. This session shows how AI can change that.",
+      "sections": [
+        {
+          "heading": "How AI Matches Clinical Criteria Instantly",
+          "body": "See live examples of AI tools that automatically check payer policies and flag missing documentation before submission."
+        },
+        {
+          "heading": "Integration with EHR and PMS Systems",
+          "body": "Learn the technical and operational steps required to embed AI-driven prior auth into your existing technology stack."
+        }
+      ],
+      "conclusion": "Walk away with a clear roadmap for reducing prior auth turnaround times and improving patient access."
+    }
+  },
+  {
+    "id": "5",
+    "title": "Webinar: AR Recovery Playbook – Recovering Aged Receivables in 90 Days",
+    "category": "AR Recovery",
+    "date": "Sep 29, 2026",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=450&fit=crop",
+    "summary": "A practical, step-by-step session on identifying high-value aged claims, optimizing follow-up workflows, and maximizing cash recovery.",
+    "content": {
+      "introduction": "Aging accounts receivable quietly erode practice profitability. This webinar delivers proven tactics to reverse the trend.",
+      "sections": [
+        {
+          "heading": "Segmenting and Prioritizing Your AR",
+          "body": "Learn how to rank claims by payer, balance, and denial reason so your team focuses on the highest-ROI opportunities first."
+        },
+        {
+          "heading": "Appeal Strategies That Actually Work",
+          "body": "Review real-world appeal templates, escalation paths, and secondary billing techniques that recover previously written-off balances."
+        }
+      ],
+      "conclusion": "Participants receive a ready-to-use 90-day AR recovery action plan they can implement the next day."
+    }
+  }
+]
