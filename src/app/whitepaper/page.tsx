@@ -1,11 +1,11 @@
 'use client';
 
 import React, { useState } from 'react';
-import WhitePapersPage from '../components/WhitePaperPage/page';
-import WhitePaperDetailPage from '../components/WhitePaperDetail/page';
+import WhitePapersPage from '../../components/WhitePaperPage/page';
+import WhitePaperDetailPage from '../../components/WhitePaperDetail/page';
 import whitepapersData from '@/data/whitepaper.json';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 
 export interface WhitePaper {
   id: string;

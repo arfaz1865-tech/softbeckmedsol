@@ -2,11 +2,11 @@
 
 import React from 'react';
 import Link from 'next/link';
-import DesignedForEaseSection from '../../components/component1/page';
-import LeadCaptureSection from '../../components/component2/page';
-import FaqAndBottomBanner from '../../components/component3/page';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import DesignedForEaseSection from '../../../components/component1/page';
+import LeadCaptureSection from '../../../components/component2/page';
+import FaqAndBottomBanner from '../../../components/component3/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 import { 
   ArrowUpRight, 
   Clock, 

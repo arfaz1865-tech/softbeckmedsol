@@ -1,10 +1,10 @@
 'use client';
 
 import React, { useState } from 'react';
-import GuidesPage, { Guide } from '@/app/components/GuidePage/page';
-import GuideDetailPage from '@/app/components/GuideDetailPage/page';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import GuidesPage, { Guide } from '@/components/GuidePage/page';
+import GuideDetailPage from '@/components/GuideDetailPage/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 import guidesData from '@/data/guides.json';
 
 export default function Page() {

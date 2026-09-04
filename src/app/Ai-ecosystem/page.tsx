@@ -1,10 +1,10 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import  AIEcosystemWheel from '@/app/components/AIEcosystemWheel/page'
+import  AIEcosystemWheel from '@/app/components/AIEcosystemWheel/AIEcosystemWheel'
 import Image from 'next/image';
-import Header from '../components/Header/page';
-import Footer from '../components/Footer/page';
+import Header from '../../components/Header/page';
+import Footer from '../../components/Footer/page';
 import { motion, useInView } from 'framer-motion';
 import {
   MessageSquare,

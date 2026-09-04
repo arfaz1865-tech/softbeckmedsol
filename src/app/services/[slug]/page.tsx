@@ -3,10 +3,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import { notFound, useParams } from 'next/navigation';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
-import TestimonialsSection from '@/app/components/Testimonial/page';
-import Client from '@/app/components/Client/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
+import TestimonialsSection from '@/components/Testimonial/page';
+import Client from '@/components/Client/Client';
 import servicesData from '@/data/servicesData.json';
 import { motion, useInView } from 'framer-motion';
 

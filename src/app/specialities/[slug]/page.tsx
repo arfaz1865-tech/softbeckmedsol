@@ -2,9 +2,9 @@
 import React from 'react';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
-import SpecialtyDetail from '@/app/components/Speciality-Detail/SpecialityDetail';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
+import SpecialtyDetail from '@/components/Speciality-Detail/SpecialityDetail';
 import specialtiesData from '@/data/specialities-detail.json';
 
 interface PageProps {

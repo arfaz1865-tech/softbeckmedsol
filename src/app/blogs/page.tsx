@@ -1,11 +1,11 @@
 'use client';
 
 import React, { useState } from 'react';
-import InsightsPage from '../components/Insight/page';
-import BlogDetailPage from '../components/BlogDetail/page';
+import InsightsPage from '../../components/Insight/page';
+import BlogDetailPage from '../../components/BlogDetail/BlogDetail';
 import blogsData from '@/data/blogs.json';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 
 export default function BlogsContainer() {
   const [selectedPost, setSelectedPost] = useState<any | null>(null);

@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
-import TestimonialsSection from '@/app/components/Testimonial/page';
-import AIMedicalCodingHowItWorks from '@/app/components/Ai-medical-coding-2/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
+import TestimonialsSection from '@/components/Testimonial/page';
+import AIMedicalCodingHowItWorks from '@/components/Ai-medical-coding-2/Ai-medical-coding-2';
 import { 
   CheckCircle2, 
   XCircle, 

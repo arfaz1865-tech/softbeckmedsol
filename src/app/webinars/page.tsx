@@ -1,11 +1,11 @@
 'use client';
 
 import React, { useState } from 'react';
-import WebinarsPage from '../components/WebinarPage/page';
-import WebinarDetailPage from '../components/WebinarDetailPage/page';
+import WebinarsPage from '../../components/WebinarPage/page';
+import WebinarDetailPage from '../../components/WebinarDetailPage/page';
 import webinarsData from '@/data/webinars.json';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 
 export interface Webinar {
   id: string;

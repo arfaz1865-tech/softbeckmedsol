@@ -1,12 +1,12 @@
 'use client';
 
 import React, { useState } from 'react';
-import CaseStudiesPage, { CaseStudy } from '../components/CaseStudiesPage/page';
-import CaseStudyDetailPage from '../components/CaseStudyDetailPage/page';
+import CaseStudiesPage, { CaseStudy } from '../../components/CaseStudiesPage/CaseStudies';
+import CaseStudyDetailPage from '../../components/CaseStudyDetailPage/CaseStudiesDetailPage';
 import caseStudiesData from '@/data/casestudies.json';
 
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 
 export default function CaseStudies() {
   const [selectedCaseStudy, setSelectedCaseStudy] = useState<CaseStudy | null>(null);

@@ -3,8 +3,8 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import { MessageSquare, Phone, Mail, Loader2, CheckCircle2 } from 'lucide-react';
-import Header from '../components/Header/page';
-import Footer from '../components/Footer/page';
+import Header from '../../components/Header/page';
+import Footer from '../../components/Footer/page';
 
 export default function ContactSection() {
   const [formData, setFormData] = useState({

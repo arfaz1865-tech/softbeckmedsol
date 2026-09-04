@@ -1,9 +1,9 @@
 "use client";
 
 import React, { useState } from "react";
-import AIRuleEngineDetails from "@/app/components/Ai-Rule-Engine2/page";
-import Header from "@/app/components/Header/page";
-import Footer from "@/app/components/Footer/page";
+import AIRuleEngineDetails from "@/components/Ai-Rule-Engine2/Ai-Rule-Engine2";
+import Header from "@/components/Header/page";
+import Footer from "@/components/Footer/page";
 import Link from "next/link"; 
 import {
   Zap,

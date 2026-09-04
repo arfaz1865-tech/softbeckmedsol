@@ -1,8 +1,8 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import Header from '@/app/components/Header/page';
-import Footer from '@/app/components/Footer/page';
+import Header from '@/components/Header/page';
+import Footer from '@/components/Footer/page';
 import { HugeiconsIcon } from '@hugeicons/react';
 import {
   BoneIcon,

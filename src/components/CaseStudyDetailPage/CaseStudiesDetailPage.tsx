@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Image from 'next/image';
-import { CaseStudy } from '@/app/components/CaseStudiesPage/page';
+import { CaseStudy } from '@/components/CaseStudiesPage/CaseStudies';
 
 interface DetailProps {
   caseStudy: CaseStudy;
