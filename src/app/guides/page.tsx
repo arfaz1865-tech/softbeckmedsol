@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import GuidesPage, { Guide } from '@/app/guides/components/GuidePage/page';
-import GuideDetailPage from '@/app/guides/components/GuideDetailPage/page';
+import GuidesPage, { Guide } from '@/app/components/GuidePage/page';
+import GuideDetailPage from '@/app/components/GuideDetailPage/page';
 import Header from '@/app/components/Header/page';
 import Footer from '@/app/components/Footer/page';
 import guidesData from '@/data/guides.json';

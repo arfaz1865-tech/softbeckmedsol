@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import ComparisonsPage, { ComparisonItem } from '../comparisons/components/comparisionPage/page';
-import ComparisonDetailPage from '../comparisons/components/comparisionDetailPage/page';
+import ComparisonsPage, { ComparisonItem } from '../components/comparisionPage/page';
+import ComparisonDetailPage from '../components/comparisionDetailPage/page';
 import comparisonsData from '@/data/comparison.json';
 import Header from '@/app/components/Header/page';
 import Footer from '@/app/components/Footer/page';

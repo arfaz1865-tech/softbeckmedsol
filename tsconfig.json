@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "src/app/Ai-ecosystem/Ai-Medical-Coding/page.jsx", "src/app/Products/Component/component3/page.jsx"  ],
+, "src/app/Ai-ecosystem/Ai-Medical-Coding/page.jsx", "src/app/components/component3/page.jsx", "next.config.mjs"  ],
   "exclude": ["node_modules"]
 }

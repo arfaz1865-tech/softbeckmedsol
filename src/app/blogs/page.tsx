@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import InsightsPage from '../blogs/component/Insight/page';
-import BlogDetailPage from '../blogs/component/BlogDetail/page';
+import InsightsPage from '../components/Insight/page';
+import BlogDetailPage from '../components/BlogDetail/page';
 import blogsData from '@/data/blogs.json';
 import Header from '@/app/components/Header/page';
 import Footer from '@/app/components/Footer/page';

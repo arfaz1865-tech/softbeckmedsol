@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import CaseStudiesPage, { CaseStudy } from '../case-studies/components/CaseStudiesPage/page';
-import CaseStudyDetailPage from '../case-studies/components/CaseStudyDetailPage/page';
+import CaseStudiesPage, { CaseStudy } from '../components/CaseStudiesPage/page';
+import CaseStudyDetailPage from '../components/CaseStudyDetailPage/page';
 import caseStudiesData from '@/data/casestudies.json';
 
 import Header from '@/app/components/Header/page';

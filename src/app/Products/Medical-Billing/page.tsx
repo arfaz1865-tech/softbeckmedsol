@@ -2,9 +2,9 @@
 
 import React from 'react';
 import Link from 'next/link';
-import DesignedForEaseSection from '../Component/component1/page';
-import LeadCaptureSection from '../Component/component2/page';
-import FaqAndBottomBanner from '../Component/component3/page';
+import DesignedForEaseSection from '../../components/component1/page';
+import LeadCaptureSection from '../../components/component2/page';
+import FaqAndBottomBanner from '../../components/component3/page';
 import Header from '@/app/components/Header/page';
 import Footer from '@/app/components/Footer/page';
 import { 
