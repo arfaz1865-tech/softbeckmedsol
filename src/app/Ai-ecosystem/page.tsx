@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import  AIEcosystemWheel from '@/app/components/AIEcosystemWheel/AIEcosystemWheel'
+import  AIEcosystemWheel from '@/components/AIEcosystemWheel/AIEcosystemWheel'
 import Image from 'next/image';
 import Header from '../../components/Header/page';
 import Footer from '../../components/Footer/page';

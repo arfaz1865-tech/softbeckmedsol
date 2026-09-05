@@ -12,7 +12,7 @@ import {
   Clock, 
   Sparkles
 } from 'lucide-react';
-import PricingSection from '@/app/components/PricingSection/page';
+import PricingSection from '@/components/PricingSection/page';
 
 export default function AIScribePage() {
   return (
