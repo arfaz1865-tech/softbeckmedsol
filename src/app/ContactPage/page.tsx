@@ -332,30 +332,7 @@ export default function ContactSection() {
         </div>
 
         {/* FIXED SIDEBAR QUICK ACTION BAR */}
-        <div className="fixed right-0 top-1/2 -translate-y-1/2 z-40 bg-blue-950 text-white rounded-l-2xl py-4 px-2.5 flex flex-col gap-5 shadow-2xl border-l border-y border-blue-900">
-          <button title="Message" className="hover:text-blue-400 transition-colors">
-            <MessageSquare className="w-5 h-5" />
-          </button>
-          <button title="Call Us" className="hover:text-blue-400 transition-colors">
-            <Phone className="w-5 h-5" />
-          </button>
-          <button title="Email Us" className="hover:text-blue-400 transition-colors">
-            <Mail className="w-5 h-5" />
-          </button>
-        </div>
-
-        {/* FLOATING CHAT WIDGET BUTTON */}
-        <div className="fixed bottom-4 right-4 z-40 flex items-center gap-2">
-          <div className="hidden sm:block bg-white text-slate-800 text-xs font-semibold px-3 py-1.5 rounded-lg shadow-md border border-slate-200">
-            Chat With Us!
-          </div>
-          <button
-            aria-label="Open Chat"
-            className="w-12 h-12 rounded-2xl bg-blue-600 text-white flex items-center justify-center shadow-lg hover:bg-blue-700 transition-all hover:scale-105"
-          >
-            <MessageSquare className="w-6 h-6 fill-current" />
-          </button>
-        </div>
+ 
       </section>
 
       <Footer />
