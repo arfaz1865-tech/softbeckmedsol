@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
 
 export const metadata: Metadata = {
-  title: "Exact Layout Demo",
-  description: "Next.js Tailwind implementation",
+  title: "Softbeck Medicare",
+  description: "Comprehensive medical and healthcare services platform.",
 };
 
 export default function RootLayout({
